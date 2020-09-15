@@ -5,10 +5,10 @@ permalink: /people/
 ---
 
 ### Heribert Insam
-University of Innsbruck
-Department of Microbiology
-Address: Technikerstraße 25d, 6020 Innsbruck, Austria
-Email: heribert.insam(at)uibk.ac.at
+University of Innsbruck  
+Department of Microbiology  
+Address: Technikerstraße 25d, 6020 Innsbruck, Austria  
+Email: heribert.insam(at)uibk.ac.at  
 Personal website:
 
 ### Florian M. Steiner
