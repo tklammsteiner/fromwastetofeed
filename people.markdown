@@ -49,6 +49,6 @@ Personal website:
 ### Carina D. Heussler
 University of Innsbruck  
 Department of Ecology  
-Address: Technikerstraße 25d,  6020 Innsbruck, Austria  
+Address: Technikerstraße 25d, 6020 Innsbruck, Austria  
 Email: carina.heussler(at)uibk.ac.at  
-Personal website:  
+Personal website:
