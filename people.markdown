@@ -25,7 +25,7 @@ Email: birgit.schlick-steiner(at)uibk.ac.at
 ### Blaž Stres
 University of Ljubljana  
 Department of Animal Science  
-Address: Groblje 3, 1230 Domžale, Slovenia
+Address: Groblje 3, 1230 Domžale, Slovenia  
 Email: blaz.stres(at)bf.uni-lj.si
 
 ### Thomas Klammsteiner
