@@ -4,15 +4,51 @@ title: People
 permalink: /people/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+### Heribert Insam
+* University of Innsbruck
+* Department of Microbiology
+* Address: Technikerstraße 25d, 6020 Innsbruck, Austria
+* Email: heribert.insam(at)uibk.ac.at
+* Personal website:
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+### Florian M. Steiner
+* University of Innsbruck
+* Department of Ecology
+* Address: Technikerstraße 25, 6020 Innsbruck, Austria
+* Email: florian.m.steiner(at)uibk.ac.at
+* Personal website:
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+### Birgit Schlick-Steiner
+* University of Innsbruck
+* Department of Ecology
+* Address: Technikerstraße 25, 6020 Innsbruck, Austria
+* Email: birgit.schlick-steiner(at)uibk.ac.at
+* Personal website:
 
+### Blaž Stres
+* University of Ljubljana
+* Department of Animal Science
+* Adress:
+* Email:
+* Personal website:
 
-[jekyll-organization]: https://github.com/jekyll
+### Thomas Klammsteiner
+* University of Innsbruck
+* Department of Microbiology
+* Address: Technikerstraße 25, 6020 Innsbruck, Austria
+* Email: thomas.klammsteiner(at)uibk.ac.at
+* Personal website:
+
+### Andreas Walter
+* MCI - The Entrepreneurial School
+* Department of Food Science & Biotechnology
+* Address: Maximilianstraße 2, 6020 Innsbruck, Austria
+* Email: andreas.walter(at)mci.edu
+* Personal website:
+
+### Carina D. Heussler
+* University of Innsbruck
+* Department of Ecology
+* Address: Technikerstraße 25d,  6020 Innsbruck, Austria
+* Email: carina.heussler(at)uibk.ac.at
+* Personal website:
