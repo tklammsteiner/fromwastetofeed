@@ -1,6 +1,7 @@
 ---
 layout: page
-title: About
+title: Black Soldier Fly
+subtitle: Innsbruck, Austria
 permalink: /about/
 ---
 
