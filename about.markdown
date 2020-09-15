@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Black Soldier Fly
-subtitle: Innsbruck, Austria
+title: About
 permalink: /about/
 ---
+## Black Soldier Fly
+#### Working Group Innsbruck, Austria  
 
 ![](https://raw.githubusercontent.com/tklammsteiner/fromwastetofeed/gh-pages/media/3.JPG)
