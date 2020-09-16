@@ -19,6 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: From Waste To Feed
+subtitle: Black Soldier Fly Working Group Innsbruck
 email: fromwastetofeed@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is the website of the Black Soldier Fly working group based in Innsbruck, Austria.
