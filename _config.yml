@@ -21,7 +21,7 @@
 title: From Waste To Feed
 email: fromwastetofeed@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
-    Black Soldier Fly working group <br>
+    Black Soldier Fly working group  
     This is just a test.
 baseurl: "/fromwastetofeed" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
