@@ -14,8 +14,7 @@ If you are interested in working with us feel free to send us a mail.
 
 ### Current students
 
-#### Nazlıcan Yalçın   
-**Type**: Erasmus+ Internship  
+**2020** - **Erasmus+ Internship** - Nazlıcan Yalçın  
 **Title**:  
 **Description**:  
 
@@ -25,72 +24,36 @@ If you are interested in working with us feel free to send us a mail.
 
 ### Past students
 
-#### Philipp Eckert  
-**Year**: 2020  
-**Type**: Bachelor thesis  
+**2020** - **Bachelor Thesis** - Philipp Eckert  
 **Title**: Optimierung und Evaluierung einer bestehenden Zucht von *Hermetia illucens* und molekularbiologische Analyse der Oberflächenmikrobiota von *Hermetia*-Eipaketen.  
 **Description**:  
 
-<br>
+**2019** - **Diploma Thesis** - Magdalena Gaßner  
+**Title**: Die Black Soldier Fly als Modellorganismus für eine nachhaltige Abfallverwertung - Konzeption und Applikation des FWF Top Citizen Science-Projekts “Six-legged livestock: rearing Black Soldier Fly on communal biowaste” im modernen Unterricht.  
+**Description**:  
 
-#### Magdalena Gaßner  
-**Year**: 2019  
-**Type**: Diploma thesis  
-**Title**: Die Black Soldier Fly als Modellorganismus für eine nachhaltige Abfallverwertung.  
-**Description**: Konzeption und Applikation des FWF Top Citizen Science-Projekts “Six-legged livestock: rearing Black Soldier Fly on communal biowaste” im modernen Unterricht.  
-
-<br>
-
-#### Arianna Serra  
-**Year**: 2019  
-**Type**: Bachelor thesis  
+**2019** - **Bachelor Thesis** - Arianna Serra  
 **Title**: Modelle und Konzepte zur Zucht von *Hermetia illucens*.  
 **Description**:  
 
-<br>
-
-#### Katharina Stonig
-**Year**: 2019  
-**Type**: Bachelor thesis  
-**Title**:  Microbial Colonization on Different Developmental Stages of the Black Soldier Fly *Hermetia illucens*.  
+**2019** - **Bachelor Thesis** - Katharina Stonig  
+**Title**: Microbial Colonization on Different Developmental Stages of the Black Soldier Fly *Hermetia illucens*.  
 **Description**:  
 
-<br>
-
-#### Simon Oberegger
-**Year**: 2018  
-**Type**: Bachelor thesis  
+**2018** - **Bachelor Thesis** - Simon Oberegger  
 **Title**: The Microbiota on the Surface of Black Soldier Fly (*Hermetia illucens*) larvae.  
 **Description**:  
 
-<br>
-
-#### Tajda Bogataj  
-**Year**: 2018  
-**Type**: Master thesis  
-**Title**:  Use of the black soldier fly (*Hermetia illucens*) for protein production from organic wastes and its microbiome.  
+**2018** - **Master Thesis** - Tajda Bogataj  
+**Title**: Use of the black soldier fly (*Hermetia illucens*) for protein production from organic wastes and its microbiome.  
 **Description**:  
 
-<br>
-
-#### Sabina Vrečko  
-**Year**: 2017  
-**Type**: Erasmus+ Internship  
-**Title**:  
+**2017** - **Erasmus+ Internship** - Sabina Vrečko  
 **Description**:  
 
-<br>
-
-#### Katarina Bačnik  
-**Year**: 2017  
-**Type**: Internship  
-**Title**:  
+**2017** - **Erasmus+ Internship** - Katarina Bačnik  
 **Description**:  
 
-<br>
-
-#### Hannes Oberkofler  
-**Year**: 2017  
-**Type**: Bachelor thesis  
+**2017** - **Bachelor Thesis** - Hannes Oberkofler  
 **Title**: Influence of Artificial Lightsources on Oviposition of the Black Soldier Fly, *Hermetia illucens*.  
 **Description**:  
