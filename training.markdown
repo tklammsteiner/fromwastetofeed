@@ -9,22 +9,46 @@ Currently we do not have specific project work to offer.
 If you are interested in working with us feel free to send us a mail.
 
 #### Current students
-
+* 
 
 #### Past students
 
-* Philipp Eckert
+* Philipp Eckert  
+Year: 2020
+Title:  
+Description:  
 
-* Arianna Serra
+* Arianna Serra  
+Year: 2019
+Title:  
+Description:  
 
-* Katharina Stonig
+* Katharina Stonig  
+Year: 2019
+Title:  
+Description:  
 
-* Simon Oberegger
+* Simon Oberegger  
+Year: 2018
+Title:  
+Description:  
 
-* Tajda Bogataj
+* Tajda Bogataj  
+Year: 2018
+Title:  
+Description:  
 
-* Sabina Vrečko
+* Sabina Vrečko  
+Year: 2017
+Title:  
+Description:  
 
-* Katarina Bačnik
+* Katarina Bačnik  
+Year: 2017
+Title:  
+Description:  
 
-* Hannes Oberkofler
+* Hannes Oberkofler  
+Year: 2017
+Title:  
+Description:  
