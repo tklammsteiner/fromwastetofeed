@@ -4,13 +4,25 @@ title: Research
 permalink: /research/
 ---
 
-#### Publications
+### Publications
 
 
-#### Conference contributions
+<br>
+
+***
+
+### Conference contributions
 
 
-#### Workshops
+<br>
+
+***
+
+### Workshops
 
 
-#### News
+<br>
+
+***
+
+### News

@@ -35,6 +35,7 @@ permalink: /projects/
 **Project description**:  
 
 **Publications**:  
+* Klammsteiner et al. (2020): On everyone’s lips: insects for food and feed. *PoS(ACSC2019)*.
 
 <br>  
 
@@ -47,6 +48,8 @@ permalink: /projects/
 **Project description**:  
 
 **Publications**:  
+* Klammsteiner et al. (2020): The core gut microbiome of  Black Soldier Fly (Hermetia illucens) raised on low-bioburden diets. *Front Microbiol*.
+* Heussler et al. (2018): Influence of three artificial light sources on oviposition and half-life of the Black Soldier Fly, Hermetia illucens (Diptera: Stratiomyidae): Improving small-scale indoor rearing. *PLOS ONE*.
 
 <br>  
 
