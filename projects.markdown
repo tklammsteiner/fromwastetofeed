@@ -6,24 +6,48 @@ permalink: /projects/
 
 ##### **2020-2021**
 #### Breeding and Biotechnology for Insect Farming
-This project was funded by the Austrian Research Promotion Agency (FFG)  
+**Funding source**: Austrian Research Promotion Agency (FFG)  
+
+**Project description**:  
+
 **Publications**:  
-***  
+  
+<br>  
+
+***
 
 ##### **2020-2021**
 #### Co-housing Effect on the Microbiome of the Black Soldier Fly Larvae
-This project was funded by the Tiroler Wissenschaftsförderung (TWF)  
+**Funding source**: Tiroler Wissenschaftsförderung (TWF)  
+
+**Project description**:  
+
 **Publications**:  
+
+<br>  
+
 ***  
 
 ##### **2018-2019**
-#### Six-legged Livestock: Rearing Black Soldier Fly on Biowaste
-This project was funded by the Austrian Science Fund (FWF)  
+#### Six-legged Livestock: Rearing Black Soldier Fly on Biowaste  
+**Funding source**: Austrian Science Fund (FWF)  
+
+**Project description**:  
+
 **Publications**:  
+
+<br>  
+
 ***  
 
 ##### **2014-2018**
 #### From Waste to Feed: Waste Products as a Source of Protein-rich Feedstuff
-This project was funded by the Austrian Science Fund (FWF)  
+**Funding source**: Austrian Science Fund (FWF)  
+
+**Project description**:  
+
 **Publications**:  
+
+<br>  
+
 ***  
