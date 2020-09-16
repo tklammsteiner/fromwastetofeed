@@ -52,7 +52,7 @@ If you are interested in working with us feel free to send us a mail.
 #### Katharina Stonig
 **Year**: 2019  
 **Type**: Bachelor thesis  
-**Title**:  Microbial Colonization on Different Developmental Stages of the Black Soldier Fly *Hermetia illucens*.
+**Title**:  Microbial Colonization on Different Developmental Stages of the Black Soldier Fly *Hermetia illucens*.  
 **Description**:  
 
 <br>
