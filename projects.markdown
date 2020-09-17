@@ -8,9 +8,9 @@ permalink: /projects/
 #### Breeding and Biotechnology for Insect Farming
 **Funding source**: Austrian Research Promotion Agency (FFG)  
 
-**Project description**:  
+**Project description**: *Coming soon*  
 
-**Publications**:  
+**Publications**: *Coming soon*  
   
 <br>  
 
@@ -20,9 +20,9 @@ permalink: /projects/
 #### Co-housing Effect on the Microbiome of the Black Soldier Fly Larvae
 **Funding source**: Tiroler Wissenschaftsförderung (TWF)  
 
-**Project description**:  
+**Project description**: *Coming soon*  
 
-**Publications**:  
+**Publications**: *Coming soon*  
 
 <br>  
 
@@ -32,7 +32,7 @@ permalink: /projects/
 #### Six-legged Livestock: Rearing Black Soldier Fly on Biowaste  
 **Funding source**: Austrian Science Fund (FWF)  
 
-**Project description**:  
+**Project description**: *Coming soon*  
 
 **Publications**:  
 * Klammsteiner et al. (2020): On everyone’s lips: insects for food and feed. *PoS(ACSC2019)*.
@@ -45,11 +45,11 @@ permalink: /projects/
 #### From Waste to Feed: Waste Products as a Source of Protein-rich Feedstuff
 **Funding source**: Austrian Science Fund (FWF)  
 
-**Project description**:  
+**Project description**: *Coming soon*  
 
 **Publications**:  
-* Klammsteiner et al. (2020): The core gut microbiome of  Black Soldier Fly (Hermetia illucens) raised on low-bioburden diets. *Front Microbiol*.
-* Heussler et al. (2018): Influence of three artificial light sources on oviposition and half-life of the Black Soldier Fly, Hermetia illucens (Diptera: Stratiomyidae): Improving small-scale indoor rearing. *PLOS ONE*.
+* Klammsteiner et al. (2020): The core gut microbiome of  Black Soldier Fly (*Hermetia illucens*) raised on low-bioburden diets. *Front Microbiol*.
+* Heussler et al. (2018): Influence of three artificial light sources on oviposition and half-life of the Black Soldier Fly, *Hermetia illucens* (Diptera: Stratiomyidae): Improving small-scale indoor rearing. *PLOS ONE*.
 
 <br>  
 
