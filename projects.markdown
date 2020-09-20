@@ -36,6 +36,7 @@ permalink: /projects/
 
 **Publications**:  
 * Klammsteiner et al. (2020): On everyone’s lips: insects for food and feed. *PoS(ACSC2019)*.
+[**DOI**](https://doi.org/10.22323/1.366.0006) | [**PDF**](https://tklammsteiner.github.io/fromwastetofeed/docs/papers/Klammsteiner%20et%20al.%202020a.pdf)
 
 <br>  
 
@@ -48,9 +49,10 @@ permalink: /projects/
 **Project description**: *Coming soon*  
 
 **Publications**:  
-* Klammsteiner et al. (2020): The core gut microbiome of  Black Soldier Fly (*Hermetia illucens*) raised on low-bioburden diets. *Front Microbiol*.
-* Heussler et al. (2018): Influence of three artificial light sources on oviposition and half-life of the Black Soldier Fly, *Hermetia illucens* (Diptera: Stratiomyidae): Improving small-scale indoor rearing. *PLOS ONE*.
+* Klammsteiner et al. (2020): The core gut microbiome of  Black Soldier Fly (*Hermetia illucens*) raised on low-bioburden diets. *Front Microbiol*. 
+[**DOI**](https://doi.org/10.3389/fmicb.2020.00993) | [**PDF**](https://tklammsteiner.github.io/fromwastetofeed/docs/papers/Klammsteiner%20et%20al.%202020b.pdf) 
 
+* Heussler et al. (2018): Influence of three artificial light sources on oviposition and half-life of the Black Soldier Fly, *Hermetia illucens* (Diptera: Stratiomyidae): Improving small-scale indoor rearing. *PLOS ONE*. [**DOI**](https://doi.org/10.1371/journal.pone.0197896) | [**PDF**](https://tklammsteiner.github.io/fromwastetofeed/docs/papers/Heussler%20et%20al.%202018.pdf)
 <br>  
 
 ***  
