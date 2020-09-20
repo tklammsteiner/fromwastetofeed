@@ -21,9 +21,7 @@
 title: From Waste To Feed
 email: fromwastetofeed@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
-    Black Soldier Fly Working Group
-location: >-
-    Innsbruck, Austria
+    Waste products as a source of protein-rich feedstuff
 baseurl: "/fromwastetofeed" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: fromwastetofeed
