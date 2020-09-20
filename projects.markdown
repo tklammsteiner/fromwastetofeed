@@ -30,13 +30,13 @@ permalink: /projects/
 
 ##### **2018-2019**
 #### Six-legged Livestock: Rearing Black Soldier Fly on Biowaste  
-**Funding source**: Austrian Science Fund (FWF)  
+**Funding source**: Austrian Science Fund (FWF) | [Grant link](https://pf.fwf.ac.at/en/research-in-practice/project-finder?search[what]=Six-legged+Livestock%3A+Rearing+Black+Soldier+Fly+on+biowaste)
 
-**Project description**: *Coming soon*  
+**Project description**: In this Citizen Science project, we conceptualized insect rearing workshops for both schools and a public audience. Within these workshops, participants built their own Black Soldier Fly rearing system and conducted a three-week feeding experiment at home. Two-hundred larvae were fed with daily accumulating kitchen wastes and food leftovers, and their growth progress was documented using an enclosed precision scale. 
 
 **Publications**:  
 * Klammsteiner et al. (2020): On everyone’s lips: insects for food and feed. *PoS(ACSC2019)*.
-[**DOI**](https://doi.org/10.22323/1.366.0006) | [**PDF**](https://tklammsteiner.github.io/fromwastetofeed/docs/papers/Klammsteiner%20et%20al.%202020a.pdf)
+[DOI](https://doi.org/10.22323/1.366.0006) | [PDF](https://tklammsteiner.github.io/fromwastetofeed/docs/papers/Klammsteiner%20et%20al.%202020a.pdf)
 
 <br>  
 
@@ -44,15 +44,15 @@ permalink: /projects/
 
 ##### **2014-2018**
 #### From Waste to Feed: Waste Products as a Source of Protein-rich Feedstuff
-**Funding source**: Austrian Science Fund (FWF)  
+**Funding source**: Austrian Science Fund (FWF) | [Grant link](https://pf.fwf.ac.at/en/research-in-practice/project-finder/31609)
 
-**Project description**: *Coming soon*  
+**Project description**: The aim of this project was to establish a Black Soldier Fly laboratory population at the Department of Microbiology, University of Innsbruck. Subsequently, various experiments to improve small-scale rearing were conducted. Particular focus was put on dietary treatments for larvae and their impact on the gut microbiome as well as finding optimal light sources for adult mating and oviposition.
 
 **Publications**:  
 * Klammsteiner et al. (2020): The core gut microbiome of  Black Soldier Fly (*Hermetia illucens*) raised on low-bioburden diets. *Front Microbiol*. 
-[**DOI**](https://doi.org/10.3389/fmicb.2020.00993) | [**PDF**](https://tklammsteiner.github.io/fromwastetofeed/docs/papers/Klammsteiner%20et%20al.%202020b.pdf) 
+[DOI](https://doi.org/10.3389/fmicb.2020.00993) | [PDF](https://tklammsteiner.github.io/fromwastetofeed/docs/papers/Klammsteiner%20et%20al.%202020b.pdf) 
 
-* Heussler et al. (2018): Influence of three artificial light sources on oviposition and half-life of the Black Soldier Fly, *Hermetia illucens* (Diptera: Stratiomyidae): Improving small-scale indoor rearing. *PLOS ONE*. [**DOI**](https://doi.org/10.1371/journal.pone.0197896) | [**PDF**](https://tklammsteiner.github.io/fromwastetofeed/docs/papers/Heussler%20et%20al.%202018.pdf)
+* Heussler et al. (2018): Influence of three artificial light sources on oviposition and half-life of the Black Soldier Fly, *Hermetia illucens* (Diptera: Stratiomyidae): Improving small-scale indoor rearing. *PLOS ONE*. [DOI](https://doi.org/10.1371/journal.pone.0197896) | [PDF](https://tklammsteiner.github.io/fromwastetofeed/docs/papers/Heussler%20et%20al.%202018.pdf)
 <br>  
 
 ***  
