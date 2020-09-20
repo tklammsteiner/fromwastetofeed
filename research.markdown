@@ -12,7 +12,8 @@ permalink: /research/
 [**DOI**](https://doi.org/10.22323/1.366.0006)  
 
 **Influence of three artificial light sources on oviposition and half-life of the Black Soldier Fly, Hermetia illucens (Diptera: Stratiomyidae): Improving small-scale indoor rearing.** Carina D. Heussler, Andreas Walter, Hannes Oberkofler, Heribert Insam, Wolfgang Arthofer, Birgit C. Schlick-Steiner, Florian M. Steiner. *PLOS ONE*, 13, e0197896.  
-[**DOI**](https://doi.org/10.1371/journal.pone.0197896)  
+[**DOI**](https://doi.org/10.1371/journal.pone.0197896) | [**PDF**](/docs/papers/Heussler-20et-20al.-202018-20--20Influence-20of-20three-20artificial-20light-20sources-20on-20oviposition-20and-20half-life-20of-20the.pdf)
+<a href = "/docs/papers/Heussler%20et%20al.%202018%20-%20Influence%20of%20three%20artificial%20light%20sources%20on%20oviposition%20and%20half-life%20of%20the.pdf">test</a>
 
 <br>
 
