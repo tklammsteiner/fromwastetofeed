@@ -46,13 +46,35 @@ permalink: /research/
 ***
 
 ### Workshops
+* **Six-legged Livestock: 1st public workshop**. [Spielraum Fablab](http://fablab.spielraumfueralle.at/). 21.05.2019  
+* **Six-legged Livestock: 2nd public workshop**. [Spielraum Fablab](http://fablab.spielraumfueralle.at/). 18.06.2019  
+* **Six-legged Livestock: 3rd public workshop**. [Spielraum Fablab](http://fablab.spielraumfueralle.at/). 25.07.2019  
+* **Six-legged Livestock: 4th public workshop**. Department of Microbiology. 29.07.2019  
+* **Six-legged Livestock: 5th public workshop**. Department of Microbiology. 10.09.2019  
 
-*Coming soon*  
+* **Six-legged Livestock: 1st school workshop**. Ferrari Schule Innsbruck. 14.01.2019  
+* **Six-legged Livestock: 2nd school workshop**. Ferrari Schule Innsbruck. 15.01.2019  
+* **Six-legged Livestock: 3rd school workshop**. Franziskaner Gymnasium Hall. 18.02.2019  
+* **Six-legged Livestock: 4th school workshop**. PORG Volders. 25.02.2019  
+* **Six-legged Livestock: 5th school workshop**. BAfEP Innsbruck. 24.09.2019  
 
 <br>
 
 ***
 
-### Newspaper Articles
+### Other publications
 
-*Coming soon*  
+* **Wurlende Wunderwuzzis als Abfallverwerter**.  
+*Wissenswert Magazin*. 01.07.2019  
+
+* **Maden sind gesund**.  
+*Kronenzeitung - Tiroler Krone*. 22.01.2019  
+
+* **Top Citizen Science Projekt: Vom Abfall zur Nahrung**.  
+*Stadteilzeitung Hötting-West und Kranebitten*. 01.12.2018  
+
+* **Vom Abfall zum Futtermittel: Maden als Proteinquelle**.  
+*Biobased Future*. 6, 11. 01.04.2018
+
+* **Mit den Waffen einer Fliege**.  
+*Wissenswert Magazin*. 02.12.2014  
