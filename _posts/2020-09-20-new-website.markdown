@@ -8,3 +8,5 @@ categories: jekyll update
 Welcome on our new website!
 
 We switched from our old website on wordpress.com to an updated version hosted on GitHub.
+
+![](https://raw.githubusercontent.com/tklammsteiner/fromwastetofeed/gh-pages/media/larva-large.png)
