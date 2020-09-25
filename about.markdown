@@ -9,7 +9,10 @@ permalink: /about/
 <br>
 
 <p float=left>
-<img src="https://raw.githubusercontent.com/tklammsteiner/fromwastetofeed/gh-pages/media/fwf.gif" width="32%" />
-<img src="https://raw.githubusercontent.com/tklammsteiner/fromwastetofeed/gh-pages/media/uibk.png" width="32%" />
-<img src="https://raw.githubusercontent.com/tklammsteiner/fromwastetofeed/gh-pages/media/ffg.png" width="32%" />
+	<a href="https://fwf.ac.at/">
+		<img src="https://raw.githubusercontent.com/tklammsteiner/fromwastetofeed/gh-pages/media/fwf.gif" width="32%" /></a>
+	<a href="https://www.uibk.ac.at">
+		<img src="https://raw.githubusercontent.com/tklammsteiner/fromwastetofeed/gh-pages/media/uibk.png" width="32%" /></a>
+	<a href="https://www.ffg.at">
+		<img src="https://raw.githubusercontent.com/tklammsteiner/fromwastetofeed/gh-pages/media/ffg.png" width="32%" /></a>
 </p>
