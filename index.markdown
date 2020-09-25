@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+![](https://raw.githubusercontent.com/tklammsteiner/fromwastetofeed/gh-pages/media/prepupa.png)
