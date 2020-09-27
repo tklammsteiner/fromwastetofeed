@@ -14,7 +14,7 @@ permalink: /research/
 **On everyone’s lips: insects for food and feed.** Thomas Klammsteiner, Andreas Walter, Heinrich Pan, Magdalena Gassner, Carina D. Heussler, Markus Schermer, Heribert Insam. *Proceedings of Science*, 366, 2020.  
 [**DOI**](https://doi.org/10.22323/1.366.0006) | [**PDF**](https://tklammsteiner.github.io/fromwastetofeed/docs/papers/Klammsteiner%20et%20al.%202020a.pdf)
 
-**Influence of three artificial light sources on oviposition and half-life of the Black Soldier Fly, Hermetia illucens (Diptera: Stratiomyidae): Improving small-scale indoor rearing.** Carina D. Heussler, Andreas Walter, Hannes Oberkofler, Heribert Insam, Wolfgang Arthofer, Birgit C. Schlick-Steiner, Florian M. Steiner. *PLOS ONE*, 13, e0197896.  
+**Influence of three artificial light sources on oviposition and half-life of the Black Soldier Fly, *Hermetia illucens* (Diptera: Stratiomyidae): Improving small-scale indoor rearing.** Carina D. Heussler, Andreas Walter, Hannes Oberkofler, Heribert Insam, Wolfgang Arthofer, Birgit C. Schlick-Steiner, Florian M. Steiner. *PLOS ONE*, 13, e0197896.  
 [**DOI**](https://doi.org/10.1371/journal.pone.0197896) | [**PDF**](https://tklammsteiner.github.io/fromwastetofeed/docs/papers/Heussler%20et%20al.%202018.pdf)
 
 <br>
