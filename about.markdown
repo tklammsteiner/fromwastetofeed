@@ -3,6 +3,13 @@ layout: about
 title: About
 permalink: /about/
 ---
+<p float=left>
+<a href="tklammsteiner.github.io/fromwastetofeed/">
+<img src="https://raw.githubusercontent.com/tklammsteiner/fromwastetofeed/gh-pages/media/bsf-wg.png"/></a>
+</p>
+
+![](https://raw.githubusercontent.com/tklammsteiner/fromwastetofeed/gh-pages/media/bsf-wg.png)  
+
 ![](https://raw.githubusercontent.com/tklammsteiner/fromwastetofeed/gh-pages/media/adult-fly-bw.png)
 
 <br>
