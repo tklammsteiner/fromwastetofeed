@@ -36,7 +36,7 @@ permalink: /research/
 
 **A House for the Critters: Bringing Insects into People’s Kitchens.** Andreas Walter, Thomas Klammsteiner, Carina D. Heussler, Heinrich Pan, Markus Schermer, Heribert Insam. *INSECTA2018 International Conference*, Gießen, Germany. 5.-7. September 2018.  
 
-**Dynamics in the gut core-microbiome of Black Soldier Fly larvae.** Thomas Klammsteiner, Andreas Walter, Carina D. Heussler, Blaž Stres, Florian M. Steiner, Birgit C. Sclick-Steiner, Wolfgang Arthofer, Heribert Insam. *INSECTA2018 International Conference*, Gießen, Germany. 5.-7. September 2018.  
+**Microbial community dynamics and functions in Black Soldier Fly larvae (*Hermetia illucens*, Diptera: Stratiomyidae) reared on various diets.** Thomas Klammsteiner, Andreas Walter, Carina D. Heussler, Blaž Stres, Florian M. Steiner, Birgit C. Sclick-Steiner, Wolfgang Arthofer, Heribert Insam. *INSECTA2018 International Conference*, Gießen, Germany. 5.-7. September 2018.  
 
 **Testing three artificial light sources on oviposition and half-life of Black Soldier Fly to improve small-scale indoor rearing.** Carina D. Heussler, Andreas Walter, Hannes Oberkofler, Heribert Insam, Wolfgang Arthofer, Birgit C. Schlick-Steiner, Florian M. Steiner. *INSECTA2018 International Conference*, Gießen, Germany. 5.-7. September 2018.  
 
