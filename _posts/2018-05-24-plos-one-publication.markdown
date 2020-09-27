@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New peer-reviewed publication in PLOS ONE"
-date: 2020-04-23 12:00:00 +0200
+date: 2018-05-24 12:00:00 +0200
 categories: jekyll update
 ---
 
