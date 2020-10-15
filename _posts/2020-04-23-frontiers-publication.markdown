@@ -5,7 +5,7 @@ date: 2020-04-23 12:00:00 +0200
 categories: jekyll update
 ---
 
-A new article focussing on the core microbiome of the Black Soldier Fly has been published as part of the current Research Topic "*Insect Microbiome: From Diversity to Application*" in Frontiers of Microbiology. The paper is openly accessible via [https://www.frontiersin.org/articles/10.3389/fmicb.2020.00993/abstract](https://www.frontiersin.org/articles/10.3389/fmicb.2020.00993/abstract)
+A new article focussing on the core microbiome of the Black Soldier Fly has been published as part of the current Research Topic "*Insect Microbiome: From Diversity to Application*" in Frontiers of Microbiology. The paper is accessible via an open access license at [https://www.frontiersin.org/articles/10.3389/fmicb.2020.00993/abstract](https://www.frontiersin.org/articles/10.3389/fmicb.2020.00993/abstract)
   
   
 **Publication**:  
