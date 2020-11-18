@@ -6,7 +6,7 @@ permalink: /research/
 
 ### Publications
 **Black soldier fly school workshops as means to promote circular economy and environmental awareness.** Andreas Walter\*, Thomas Klammsteiner\*, Magdalena Gassner, Carina D. Heussler, Suzanne Kapelari, Markus Schermer, Heribert Insam. *Sustainability*, 12(22), 9574, 2020. (\**equal contribution*)  
-[**doi**](https://doi.org/10.3390/su12229574) | [**pdf**](https://tklammsteiner.github.io/fromwastetofeed/docs/papers/Walter%20et%20al.%202020.pdf)
+[**DOI**](https://doi.org/10.3390/su12229574) | [**PDF**](https://tklammsteiner.github.io/fromwastetofeed/docs/papers/Walter%20et%20al.%202020.pdf)
 
 **Suitability of black soldier fly frass as soil amendment and implication for organic waste hygienization.** Thomas Klammsteiner, Veysel Turan, Marina Fernández-Delgado Juárez, Simon Oberegger, Heribert Insam. *Agronomy*, 10(10), 1578, 2020.  
 [**DOI**](https://doi.org/10.3390/agronomy10101578) | [**PDF**](https://tklammsteiner.github.io/fromwastetofeed/docs/papers/Klammsteiner%20et%20al.%202020c.pdf)
