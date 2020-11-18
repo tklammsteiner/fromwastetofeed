@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New peer-reviewed publication in Sustainability"
-date: 2020-10-15 12:00:00 +0200
+date: 2020-11-17 12:00:00 +0200
 categories: jekyll update
 ---
 
