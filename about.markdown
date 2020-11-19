@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 <p float=left>
-	<a href="tklammsteiner.github.io/fromwastetofeed/">
+	<a href="www.fromwastetofeed.com">
 		<img src="https://raw.githubusercontent.com/tklammsteiner/fromwastetofeed/gh-pages/media/bsf-wg.png" width="75%"/></a>
 </p>
 
