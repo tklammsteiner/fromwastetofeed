@@ -23,7 +23,7 @@ author: Black Soldier Fly Innsbruck
 email: fromwastetofeed@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
     Waste products as a source of protein-rich feedstuff
-baseurl: "/fromwastetofeed" # the subpath of your site, e.g. /blog
+baseurl: # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 instagram_username: fromwastetofeed
 twitter_username: fromwastetofeed
