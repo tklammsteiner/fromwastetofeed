@@ -5,7 +5,7 @@ date: 2020-11-17 12:00:00 +0200
 categories: jekyll update
 ---
 
-A new article focussing on the use of Black Soldier Fly as means to promote circular economy and environmental awareness in schools has been published as part of the Research Topic "*Sustainable Citizenship and Education*" in Sustainability. The paper is accessible via an open access license at [https://www.mdpi.com/2071-1050/12/22/9574](https://www.mdpi.com/2071-1050/12/22/9574)
+A new article focussing on the use of Black Soldier Fly as means to promote circular economy and environmental awareness in schools has been published as part of the special issue "*Sustainable Citizenship and Education*" in Sustainability. The paper is accessible via an open access license at [https://www.mdpi.com/2071-1050/12/22/9574](https://www.mdpi.com/2071-1050/12/22/9574)
 
 <p float=left>
 	<img src="https://raw.githubusercontent.com/tklammsteiner/fromwastetofeed/gh-pages/media/explosion-figure.png">
