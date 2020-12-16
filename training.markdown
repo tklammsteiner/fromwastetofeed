@@ -30,7 +30,7 @@ If you are interested in working with us feel free to send us a mail.
 
 **2019** - **Diploma Thesis** - Magdalena Gaßner, AT  
 **Title**: Die Black Soldier Fly als Modellorganismus für eine nachhaltige Abfallverwertung - Konzeption und Applikation des FWF Top Citizen Science-Projekts “Six-legged livestock: rearing Black Soldier Fly on communal biowaste” im modernen Unterricht.  
-**Description**: This diploma thesis was part of our [Six-legged Livestock](https://pf.fwf.ac.at/en/research-in-practice/project-finder/43946) citizen science project funded by the Austrian Science Fund (FWF). School workshops were conceptualized to teach pupils about the benefits and features of industrially reared insects. Within these workshops, the pupils built their own rearing system and supervised a three-week feeding experiment where they used their leftover food as substrate for Black Soldier Fly larvae. The results from this thesis will be part of an upcoming publication by Klammsteiner et al. (2020).
+**Description**: This diploma thesis was part of our [Six-legged Livestock](https://pf.fwf.ac.at/en/research-in-practice/project-finder/43946) citizen science project funded by the Austrian Science Fund (FWF). School workshops were conceptualized to teach pupils about the benefits and features of industrially reared insects. Within these workshops, the pupils built their own rearing system and supervised a three-week feeding experiment where they used their leftover food as substrate for Black Soldier Fly larvae. Results of this thesis are part of the first citizen-science-based publication funded by the Austrian Science Fund (FWF) [Walter and Klammsteiner et al. (2020)](https://doi.org/10.3390/su12229574).
 
 **2019** - **Bachelor Thesis** - Arianna Serra, IT  
 **Title**: Modelle und Konzepte zur Zucht von *Hermetia illucens*.  
@@ -42,7 +42,7 @@ If you are interested in working with us feel free to send us a mail.
 
 **2018** - **Bachelor Thesis** - Simon Oberegger, AT  
 **Title**: The Microbiota on the Surface of Black Soldier Fly (*Hermetia illucens*) larvae.  
-**Description**: Within this bachelor thesis, microorganisms living on the surface of larvae raised on various waste substrates were quantified and identified via sequencing. Wash solutions of larvae were plated on multiple nutrient media to check for the growth of pathogens such as *E. coli*, *Salmonella sp.*, or *Listeria spp.*. Bacterial isolates were obtained from samples plated on standard methods agar. Their DNA was amplified via colony polymerase chain reaction and subsequently identified via Sanger sequencing and nucleotide BLAST search.
+**Description**: Within this bachelor thesis, microorganisms living on the surface of larvae raised on various waste substrates were quantified and identified via sequencing. Wash solutions of larvae were plated on multiple nutrient media to check for the growth of pathogens such as *E. coli*, *Salmonella sp.*, or *Listeria spp.*. Bacterial isolates were obtained from samples plated on standard methods agar. Their DNA was amplified via colony polymerase chain reaction and subsequently identified via Sanger sequencing and nucleotide BLAST search. This study served as preliminary experimetn for a subsequent paper by [Klammsteiner et al. (2020)](https://doi.org/10.3390/agronomy10101578).
 
 **2018** - **Master Thesis** - Tajda Bogataj, SI  
 **Title**: Use of the black soldier fly (*Hermetia illucens*) for protein production from organic wastes and its microbiome.  
