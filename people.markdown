@@ -45,3 +45,8 @@ University of Innsbruck
 Department of Ecology  
 **Address**: Technikerstraße 25d, 6020 Innsbruck, Austria  
 **Email**: carina.heussler(at)uibk.ac.at  
+
+
+### **Collaborators**
+
+* Wolfgang Dibiasi - Photographer [www.dibiasiwelt.com](https://www.dibiasiwelt.com)
