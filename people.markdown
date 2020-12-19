@@ -46,7 +46,9 @@ Department of Ecology
 **Address**: Technikerstraße 25d, 6020 Innsbruck, Austria  
 **Email**: carina.heussler(at)uibk.ac.at  
 
+</br>
 
 ### **Collaborators**
 
-* Wolfgang Dibiasi - Photographer [www.dibiasiwelt.com](https://www.dibiasiwelt.com)
+* Wolfgang Dibiasi - Photographer [(www.dibiasiwelt.com)](https://www.dibiasiwelt.com)  
+* Spielraum FabLab - Technological support [(fablab.spielraumfueralle.at)](http://fablab.spielraumfueralle.at/)
