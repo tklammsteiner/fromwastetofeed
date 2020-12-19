@@ -70,6 +70,9 @@ permalink: /research/
 
 ### Other publications
 
+* **Kreislaufwirtschaft: Viele Fliegen mit einer Klappe**.  
+*Tiroler Tageszeitung*. 24.11.2020  
+
 * **Wurlende Wunderwuzzis als Abfallverwerter**.  
 *Wissenswert Magazin*. 01.07.2019  
 
