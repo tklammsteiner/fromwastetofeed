@@ -8,7 +8,7 @@ permalink: /projects/
 #### Breeding and Biotechnology for Insect Farming
 **Funding source**: Austrian Research Promotion Agency (FFG)  
 
-**Project description**: *Coming soon*  
+**Project description**: In this industrial cooperation we delve into methods for substrate pre-treatment and assess their impact on substrate and larval microbiota. In contrast to the majority of black soldier fly experiments, these studies will be conducted at industrial scale - providing new opportunities but also posing new challanges.
 
 **Publications**: *In preparation*  
   
