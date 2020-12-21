@@ -10,7 +10,7 @@ permalink: /projects/
 
 **Project description**: *Coming soon*  
 
-**Publications**: *Coming soon*  
+**Publications**: *In preparation*  
   
 <br>  
 
@@ -20,9 +20,9 @@ permalink: /projects/
 #### Co-housing Effect on the Microbiome of the Black Soldier Fly Larvae
 **Funding source**: Tiroler Wissenschaftsförderung (TWF)  
 
-**Project description**: *Coming soon*  
+**Project description**: Within this project, we want to follow up on our citizen science project by focussing on the substrate and larval microbiomes brought forward by the citizen scientist's home experiments. Every consumer creates a specific pattern of organic wastes that reflects their dietary habits and provides the nutrient source for a broad range of microorganisms. Additionally, environmental factors varying between various households can have an impact on the microbial communities.  
 
-**Publications**: *Coming soon*  
+**Publications**: *In preparation*  
 
 <br>  
 
@@ -32,7 +32,7 @@ permalink: /projects/
 #### Six-legged Livestock: Rearing Black Soldier Fly on Biowaste  
 **Funding source**: Austrian Science Fund (FWF) | [**Grant link**](https://pf.fwf.ac.at/en/research-in-practice/project-finder?search[what]=Six-legged+Livestock%3A+Rearing+Black+Soldier+Fly+on+biowaste)
 
-**Project description**: In this Citizen Science project, we conceptualized insect rearing workshops for both schools and a public audience. Within these workshops, participants built their own Black Soldier Fly rearing system and conducted a three-week feeding experiment at home. Two-hundred larvae were fed with daily accumulating kitchen wastes and food leftovers, and their growth progress was documented using an enclosed precision scale. 
+**Project description**: In this citizen science project, we conceptualized insect rearing workshops for both schools and a public audience. Within these workshops, participants built their own Black Soldier Fly rearing system and conducted a three-week feeding experiment at home. Two-hundred larvae were fed with daily accumulating kitchen wastes and food leftovers, and their growth progress was documented using an enclosed precision scale. 
 
 **Publications**:  
 * Walter and Klammsteiner et al. (2020): Black soldier fly school workshops as means to promote circular economy and environmental awareness. *Sustainability*, 12(20), 19574.  
