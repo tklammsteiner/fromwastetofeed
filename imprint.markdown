@@ -1,9 +1,11 @@
 ---
 layout: page
+title: ""
 permalink: /imprint/
 ---
 
 ## **From Waste To Feed**
+
 #### Black Soldier Fly working group  
 
 Department of Microbiology  
