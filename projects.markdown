@@ -53,7 +53,7 @@ permalink: /projects/
 
 **Publications**:  
 * Klammsteiner et al. (2020): Suitability of black soldier fly frass as soil amendment and implication for organic waste hygienization. *Agronomy*, 10(10), 1578.  
-[**DOI**](https://doi.org/10.3390/agronomy10101578) | [**PDF**](https://tklammsteiner.github.io/fromwastetofeed/docs/papers/Klammsteiner%20et%20al.%2020c.pdf)  
+[**DOI**](https://doi.org/10.3390/agronomy10101578) | [**PDF**](https://tklammsteiner.github.io/fromwastetofeed/docs/papers/Klammsteiner%20et%20al.%202020c.pdf)  
 
 * Klammsteiner et al. (2020): The core gut microbiome of  Black Soldier Fly (*Hermetia illucens*) raised on low-bioburden diets. *Front Microbiol*, 11.  
 [**DOI**](https://doi.org/10.3389/fmicb.2020.00993) | [**PDF**](https://tklammsteiner.github.io/fromwastetofeed/docs/papers/Klammsteiner%20et%20al.%202020b.pdf) 
