@@ -31,7 +31,7 @@ Department of Animal Science
 ### Thomas Klammsteiner
 University of Innsbruck  
 Department of Microbiology  
-**Address**: Technikerstraße 25, 6020 Innsbruck, Austria  
+**Address**: Technikerstraße 25d, 6020 Innsbruck, Austria  
 **Email**: thomas.klammsteiner(at)uibk.ac.at  
 
 ### Andreas Walter
