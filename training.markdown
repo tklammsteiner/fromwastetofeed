@@ -24,7 +24,7 @@ If you are interested in working with us feel free to send us a mail.
 
 ### Past students
 
-**2020** - **Bachelor Thesis** - Philipp Eckert; DE  
+**2020** - **Bachelor Thesis** - Philipp Eckert; DE | [[**Thesis**]](https://tklammsteiner.github.io/fromwastetofeed/docs/theses/2020-Eckert.pdf)  
 **Title**: Optimierung und Evaluierung einer bestehenden Zucht von *Hermetia illucens* und molekularbiologische Analyse der Oberflächenmikrobiota von *Hermetia*-Eipaketen.  
 **Description**:  Within this bachelor thesis, the microbial communities residing on the surface of Black Soldier Fly egg clutches were investigated by cultivation techniques and Sanger sequencing of bacterial isolates. 
 
@@ -32,15 +32,15 @@ If you are interested in working with us feel free to send us a mail.
 **Title**: Die Black Soldier Fly als Modellorganismus für eine nachhaltige Abfallverwertung - Konzeption und Applikation des FWF Top Citizen Science-Projekts “Six-legged livestock: rearing Black Soldier Fly on communal biowaste” im modernen Unterricht.  
 **Description**: This diploma thesis was part of our [Six-legged Livestock](https://pf.fwf.ac.at/en/research-in-practice/project-finder/43946) citizen science project funded by the Austrian Science Fund (FWF). School workshops were conceptualized to teach pupils about the benefits and features of industrially reared insects. Within these workshops, the pupils built their own rearing system and supervised a three-week feeding experiment where they used their leftover food as substrate for Black Soldier Fly larvae. Results of this thesis are part of the first citizen-science-based publication funded by the Austrian Science Fund (FWF) [[Walter and Klammsteiner et al. (2020)]](https://doi.org/10.3390/su12229574).
 
-**2019** - **Bachelor Thesis** - Arianna Serra, IT  
+**2019** - **Bachelor Thesis** - Arianna Serra, IT | [[**Thesis**]](https://tklammsteiner.github.io/fromwastetofeed/docs/theses/2019-Serra.pdf)  
 **Title**: Modelle und Konzepte zur Zucht von *Hermetia illucens*.  
 **Description**: Within this theoretical bachelor thesis, available models and concepts for rearing Black Soldier Fly larvae were collected and summarized. Many different rearing systems in form of bucket designs can be found in internet resources or publications, mainly intended for hobbyist purposes.
 
-**2019** - **Bachelor Thesis** - Katharina Stonig, AT  
+**2019** - **Bachelor Thesis** - Katharina Stonig, AT | [[**Thesis**]](https://tklammsteiner.github.io/fromwastetofeed/docs/theses/2019-Stonig.pdf)  
 **Title**: Microbial Colonization on Different Developmental Stages of the Black Soldier Fly *Hermetia illucens*.  
 **Description**: Within this bachelor thesis, the microbial load of Black Soldier Fly eggs, larvae, pupae, and flies reared in our lab population was assessed by applying traditional cultivation techniques. Morphologically distinct colonies were isolated and their DNA was amplified using colony polymerase chain reaction. The PCR products were used to identify the isolates via Sanger sequencing and nucleotide BLAST search.
 
-**2018** - **Bachelor Thesis** - Simon Oberegger, AT  
+**2018** - **Bachelor Thesis** - Simon Oberegger, AT | [[**Thesis**]](https://tklammsteiner.github.io/fromwastetofeed/docs/theses/2018-Oberegger.pdf)  
 **Title**: The Microbiota on the Surface of Black Soldier Fly (*Hermetia illucens*) larvae.  
 **Description**: Within this bachelor thesis, microorganisms living on the surface of larvae raised on various waste substrates were quantified and identified via sequencing. Wash solutions of larvae were plated on multiple nutrient media to check for the growth of pathogens such as *E. coli*, *Salmonella sp.*, or *Listeria spp.*. Bacterial isolates were obtained from samples plated on standard methods agar. Their DNA was amplified via colony polymerase chain reaction and subsequently identified via Sanger sequencing and nucleotide BLAST search. This study served as preliminary experimetn for a subsequent paper by [Klammsteiner et al. (2020)](https://doi.org/10.3390/agronomy10101578).
 
