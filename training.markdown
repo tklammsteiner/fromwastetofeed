@@ -28,7 +28,7 @@ If you are interested in working with us feel free to send us a mail.
 **Title**: Optimierung und Evaluierung einer bestehenden Zucht von *Hermetia illucens* und molekularbiologische Analyse der Oberflächenmikrobiota von *Hermetia*-Eipaketen.  
 **Description**:  Within this bachelor thesis, the microbial communities residing on the surface of Black Soldier Fly egg clutches were investigated by cultivation techniques and Sanger sequencing of bacterial isolates. 
 
-**2019** - **Diploma Thesis** - Magdalena Gaßner, AT | [[Thesis]](https://tklammsteiner.github.io/fromwastetofeed/docs/theses/2019-Gassner.pdf)
+**2019** - **Diploma Thesis** - Magdalena Gaßner, AT | [[**Thesis**]](https://tklammsteiner.github.io/fromwastetofeed/docs/theses/2019-Gassner.pdf)  
 **Title**: Die Black Soldier Fly als Modellorganismus für eine nachhaltige Abfallverwertung - Konzeption und Applikation des FWF Top Citizen Science-Projekts “Six-legged livestock: rearing Black Soldier Fly on communal biowaste” im modernen Unterricht.  
 **Description**: This diploma thesis was part of our [Six-legged Livestock](https://pf.fwf.ac.at/en/research-in-practice/project-finder/43946) citizen science project funded by the Austrian Science Fund (FWF). School workshops were conceptualized to teach pupils about the benefits and features of industrially reared insects. Within these workshops, the pupils built their own rearing system and supervised a three-week feeding experiment where they used their leftover food as substrate for Black Soldier Fly larvae. Results of this thesis are part of the first citizen-science-based publication funded by the Austrian Science Fund (FWF) [[Walter and Klammsteiner et al. (2020)]](https://doi.org/10.3390/su12229574).
 
