@@ -28,7 +28,7 @@ phone: +43 (0)512 507 51322
 description: >- # this means to ignore newlines until "baseurl:"
     Waste products as a source of protein-rich feedstuff
 baseurl: # the subpath of your site, e.g. /blog
-url: https://www.fromwastetofeed.com # the base hostname & protocol for your site, e.g. http://example.com
+url: http://fromwastetofeed.com # the base hostname & protocol for your site, e.g. http://example.com
 instagram_username: fromwastetofeed
 twitter_username: fromwastetofeed
 
