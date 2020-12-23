@@ -36,10 +36,10 @@ permalink: /projects/
 
 **Publications**:  
 * Walter and Klammsteiner et al. (2020): Black soldier fly school workshops as means to promote circular economy and environmental awareness. *Sustainability*, 12(20), 19574.  
-[**DOI**](https://doi.org/10.3390/su12229574) | [**PDF**](https://tklammsteiner.github.io/fromwastetofeed/docs/papers/Walter%20et%20al.%202020.pdf)  
+[**DOI**](https://doi.org/10.3390/su12229574) | [**PDF**](https://tklammsteiner.github.io/fromwastetofeed/docs/papers/2020-Walter.pdf)  
 
 * Klammsteiner et al. (2020): On everyone’s lips: insects for food and feed. *Proceedings of Science - PoS(ACSC2019)*, 366.  
-[**DOI**](https://doi.org/10.22323/1.366.0006) | [**PDF**](https://tklammsteiner.github.io/fromwastetofeed/docs/papers/Klammsteiner%20et%20al.%202020a.pdf)
+[**DOI**](https://doi.org/10.22323/1.366.0006) | [**PDF**](https://tklammsteiner.github.io/fromwastetofeed/docs/papers/2020-Klammsteiner-a.pdf)
 
 <br>  
 
@@ -53,13 +53,13 @@ permalink: /projects/
 
 **Publications**:  
 * Klammsteiner et al. (2020): Suitability of black soldier fly frass as soil amendment and implication for organic waste hygienization. *Agronomy*, 10(10), 1578.  
-[**DOI**](https://doi.org/10.3390/agronomy10101578) | [**PDF**](https://tklammsteiner.github.io/fromwastetofeed/docs/papers/Klammsteiner%20et%20al.%202020c.pdf)  
+[**DOI**](https://doi.org/10.3390/agronomy10101578) | [**PDF**](https://tklammsteiner.github.io/fromwastetofeed/docs/papers/2020-Klammsteiner-c.pdf)  
 
 * Klammsteiner et al. (2020): The core gut microbiome of  Black Soldier Fly (*Hermetia illucens*) raised on low-bioburden diets. *Front Microbiol*, 11.  
-[**DOI**](https://doi.org/10.3389/fmicb.2020.00993) | [**PDF**](https://tklammsteiner.github.io/fromwastetofeed/docs/papers/Klammsteiner%20et%20al.%202020b.pdf) 
+[**DOI**](https://doi.org/10.3389/fmicb.2020.00993) | [**PDF**](https://tklammsteiner.github.io/fromwastetofeed/docs/papers/2020-Klammsteiner-b.pdf) 
 
 * Heussler et al. (2018): Influence of three artificial light sources on oviposition and half-life of the Black Soldier Fly, *Hermetia illucens* (Diptera: Stratiomyidae): Improving small-scale indoor rearing. *PLOS ONE*, 13, e0197896.  
-[**DOI**](https://doi.org/10.1371/journal.pone.0197896) | [**PDF**](https://tklammsteiner.github.io/fromwastetofeed/docs/papers/Heussler%20et%20al.%202018.pdf)
+[**DOI**](https://doi.org/10.1371/journal.pone.0197896) | [**PDF**](https://tklammsteiner.github.io/fromwastetofeed/docs/papers/2018-Heussler.pdf)
 <br>  
 
 ***  

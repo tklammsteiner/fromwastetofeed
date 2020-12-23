@@ -6,19 +6,19 @@ permalink: /research/
 
 ### Publications
 **Black soldier fly school workshops as means to promote circular economy and environmental awareness.** Andreas Walter\*, Thomas Klammsteiner\*, Magdalena Gassner, Carina D. Heussler, Suzanne Kapelari, Markus Schermer, Heribert Insam. *Sustainability*, 12(22), 9574, 2020. (\**equal contribution*)  
-[**DOI**](https://doi.org/10.3390/su12229574) | [**PDF**](https://tklammsteiner.github.io/fromwastetofeed/docs/papers/Walter%20et%20al.%202020.pdf)
+[**DOI**](https://doi.org/10.3390/su12229574) | [**PDF**](https://tklammsteiner.github.io/fromwastetofeed/docs/papers/2020-Walter.pdf)  
 
 **Suitability of black soldier fly frass as soil amendment and implication for organic waste hygienization.** Thomas Klammsteiner, Veysel Turan, Marina Fernández-Delgado Juárez, Simon Oberegger, Heribert Insam. *Agronomy*, 10(10), 1578, 2020.  
-[**DOI**](https://doi.org/10.3390/agronomy10101578) | [**PDF**](https://tklammsteiner.github.io/fromwastetofeed/docs/papers/Klammsteiner%20et%20al.%202020c.pdf)
+[**DOI**](https://doi.org/10.3390/agronomy10101578) | [**PDF**](https://tklammsteiner.github.io/fromwastetofeed/docs/papers/2020-Klammsteiner-c.pdf)  
 
 **The core gut microbiome of Black Soldier Fly (*Hermetia illucens*) larvae raised on low-bioburden diets.** Thomas Klammsteiner, Andreas Walter, Tajda Bogataj, Carina D. Heussler, Blaž Stres, Florian M. Steiner, Birgit C. Schlick-Steiner, Wolfgang Arthofer, Heribert Insam. *Frontiers in Microbiology*, 11, 2020.  
-[**DOI**](https://doi.org/10.3389/fmicb.2020.00993) | [**PDF**](https://tklammsteiner.github.io/fromwastetofeed/docs/papers/Klammsteiner%20et%20al.%202020b.pdf) 
+[**DOI**](https://doi.org/10.3389/fmicb.2020.00993) | [**PDF**](https://tklammsteiner.github.io/fromwastetofeed/docs/papers/2020-Klammsteiner-b.pdf)  
 
 **On everyone’s lips: insects for food and feed.** Thomas Klammsteiner, Andreas Walter, Heinrich Pan, Magdalena Gassner, Carina D. Heussler, Markus Schermer, Heribert Insam. *Proceedings of Science*, 366, 2020.  
-[**DOI**](https://doi.org/10.22323/1.366.0006) | [**PDF**](https://tklammsteiner.github.io/fromwastetofeed/docs/papers/Klammsteiner%20et%20al.%202020a.pdf)
+[**DOI**](https://doi.org/10.22323/1.366.0006) | [**PDF**](https://tklammsteiner.github.io/fromwastetofeed/docs/papers/2020-Klammsteiner-a.pdf)  
 
 **Influence of three artificial light sources on oviposition and half-life of the Black Soldier Fly, *Hermetia illucens* (Diptera: Stratiomyidae): Improving small-scale indoor rearing.** Carina D. Heussler, Andreas Walter, Hannes Oberkofler, Heribert Insam, Wolfgang Arthofer, Birgit C. Schlick-Steiner, Florian M. Steiner. *PLOS ONE*, 13, e0197896.  
-[**DOI**](https://doi.org/10.1371/journal.pone.0197896) | [**PDF**](https://tklammsteiner.github.io/fromwastetofeed/docs/papers/Heussler%20et%20al.%202018.pdf)
+[**DOI**](https://doi.org/10.1371/journal.pone.0197896) | [**PDF**](https://tklammsteiner.github.io/fromwastetofeed/docs/papers/2018-Heussler.pdf)  
 
 <br>
 
@@ -82,8 +82,8 @@ permalink: /research/
 * **Top Citizen Science Projekt: Vom Abfall zur Nahrung**.  
 *Stadteilzeitung Hötting-West und Kranebitten*. 01.12.2018  
 
-* **Vom Abfall zum Futtermittel: Maden als Proteinquelle**.  
+* **Vom Abfall zum Futtermittel: Maden als Proteinquelle**. | [**PDF**](https://tklammsteiner.github.io/fromwastetofeed/docs/news/2018-Biobased-future.pdf)  
 *Biobased Future*. 6, 11. 01.04.2018
 
-* **Mit den Waffen einer Fliege**.  
+* **Mit den Waffen einer Fliege**. | [**PDF**](https://tklammsteiner.github.io/fromwastetofeed/docs/news/2014-Wissenswert-Magazin.pdf)  
 *Wissenswert Magazin*. 02.12.2014  
