@@ -70,7 +70,7 @@ permalink: /research/
 
 ### Other publications
 
-* **Kreislaufwirtschaft: Viele Fliegen mit einer Klappe**. | [**PDF**](https://tklammsteiner.github.io/fromwastetofeed/docs/news/2020-Tiroler-Tagsezeitung.pdf)   
+* **Kreislaufwirtschaft: Viele Fliegen mit einer Klappe**. | [**PDF**](https://tklammsteiner.github.io/fromwastetofeed/docs/news/2020-Tiroler-Tageszeitung.pdf)   
 *Tiroler Tageszeitung*. 24.11.2020  
 
 * **Wurlende Wunderwuzzis als Abfallverwerter**. | [**PDF**](https://tklammsteiner.github.io/fromwastetofeed/docs/news/2019-Wissenswert-Magazin.pdf)  
