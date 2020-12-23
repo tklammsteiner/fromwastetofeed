@@ -70,16 +70,16 @@ permalink: /research/
 
 ### Other publications
 
-* **Kreislaufwirtschaft: Viele Fliegen mit einer Klappe**.  
+* **Kreislaufwirtschaft: Viele Fliegen mit einer Klappe**. | [**PDF**](https://tklammsteiner.github.io/fromwastetofeed/docs/news/2020-Tiroler-Tagsezeitung.pdf)   
 *Tiroler Tageszeitung*. 24.11.2020  
 
-* **Wurlende Wunderwuzzis als Abfallverwerter**.  
+* **Wurlende Wunderwuzzis als Abfallverwerter**. | [**PDF**](https://tklammsteiner.github.io/fromwastetofeed/docs/news/2019-Wissenswert-Magazin.pdf)  
 *Wissenswert Magazin*. 01.07.2019  
 
-* **Maden sind gesund**.  
+* **Maden sind gesund**. | [**PDF**](https://tklammsteiner.github.io/fromwastetofeed/docs/news/2019-Kronenzeitung.pdf)  
 *Kronenzeitung - Tiroler Krone*. 22.01.2019  
 
-* **Top Citizen Science Projekt: Vom Abfall zur Nahrung**.  
+* **Top Citizen Science Projekt: Vom Abfall zur Nahrung**. | [**PDF**](https://tklammsteiner.github.io/fromwastetofeed/docs/news/2018-Stadteilzeitung-Hoetting.pdf)  
 *Stadteilzeitung Hötting-West und Kranebitten*. 01.12.2018  
 
 * **Vom Abfall zum Futtermittel: Maden als Proteinquelle**. | [**PDF**](https://tklammsteiner.github.io/fromwastetofeed/docs/news/2018-Biobased-future.pdf)  

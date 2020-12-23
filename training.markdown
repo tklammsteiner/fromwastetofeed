@@ -43,7 +43,7 @@ If you are interested in working with us feel free to send us a mail.
 **Title**: The Microbiota on the Surface of Black Soldier Fly (*Hermetia illucens*) larvae.  
 **Description**: Within this bachelor thesis, microorganisms living on the surface of larvae raised on various waste substrates were quantified and identified via sequencing. Wash solutions of larvae were plated on multiple nutrient media to check for the growth of pathogens such as *E. coli*, *Salmonella sp.*, or *Listeria spp.*. Bacterial isolates were obtained from samples plated on standard methods agar. Their DNA was amplified via colony polymerase chain reaction and subsequently identified via Sanger sequencing and nucleotide BLAST search. This study served as preliminary experimetn for a subsequent paper by [Klammsteiner et al. (2020)](https://doi.org/10.3390/agronomy10101578).
 
-**2018** - **Master Thesis** - Tajda Bogataj, SI  
+**2018** - **Master Thesis** - Tajda Bogataj, SI | [[**Thesis**]](https://tklammsteiner.github.io/fromwastetofeed/docs/theses/2018-Bogataj.pdf)  
 **Title**: Use of the black soldier fly (*Hermetia illucens*) for protein production from organic wastes and its microbiome.  
 **Description**: Within this master thesis project, organic wastes such as grass-cuttings and various canteen waste fractions were applied in feeding trials as feed for Black Soldier Fly larvae. The substrates were characterized in-depth and their impact on larval growth parameters was observed. In addition, larval gut microbiomes were analyzed using high-throughput 16S rRNA sequencing to investigate diet-induced changes in microbial gut communities. The results from this thesis are part of an upcoming paper by Klammsteiner et al. (2020).
 
