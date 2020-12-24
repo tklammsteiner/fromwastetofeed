@@ -8,7 +8,7 @@ categories: jekyll update
 On the 13th of April we participated with an info booth about our research at the “Lange Nacht der Forschung” in Innsbruck.
 
 <p float="left">
-  <img src="https://raw.githubusercontent.com/tklammsteiner/fromwastetofeed/gh-pages/media/events/2018-langenachtderforschung1.jpg" width="100%" />
+  <img src="https://raw.githubusercontent.com/tklammsteiner/fromwastetofeed/gh-pages/media/events/2018-langenachtderforschung1.png" width="100%" />
 </p>
 
 <p float="left">
