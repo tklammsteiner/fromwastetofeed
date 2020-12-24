@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Fest der Wissenschaft"
+title: "Campustage Technik"
 date: 2019-04-26 12:00:00 +0200
 categories: jekyll update
 ---
 
-Mit über 90 Stationen wurde im Rahmen der Campus-Tage Technik am 26. und 27. April das 350-jährige Jubiläum der Universität Innsbruck gefeiert.
+Mit über 90 Stationen wurde im Rahmen der Campustage Technik am 26. und 27. April das 350-jährige Jubiläum der Universität Innsbruck gefeiert.
 
 Auch wir haben uns mit einer Mitmach-Station beteiligt und interessierte Personen jeden Alters in die Welt der Schwarzen Soldatenfliege eingeführt.
 
