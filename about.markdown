@@ -13,7 +13,7 @@ permalink: /about/
 
 <p align="justify">We are a multidisciplinary team of researchers with backgrounds in microbial waste management, molecular ecology, and microbial community analysis. Our work on the black soldier fly (<i>Hermetia illucens</i>, Diptera: Stratiomyidae) started in 2014 with a first project focussing on improving small-scale rearing and investigating microbe-host relationships. Over time, our collaborations also expanded to other disciplines, covering socio-economical aspects and citizen science.</p>
 
-<p align="justify">The key areas of our work involve the investigation of interkingdom relationships between microbes and flies as well as the challanges arising with the industrial up-scaling of black soldier fly rearing.</p>
+<p align="justify">The key areas of our work involve the investigation of interkingdom relationships between microbes and flies as well as the challenges arising with the industrial up-scaling of black soldier fly rearing.</p>
 
 <br />
 
