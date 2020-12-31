@@ -32,6 +32,9 @@ url: http://fromwastetofeed.com # the base hostname & protocol for your site, e.
 instagram_username: fromwastetofeed
 twitter_username: fromwastetofeed
 
+# Google Analytics
+google_analytics: G-YJQ3P8BG9M
+
 # Disqus Comments
 disqus:
     # Leave shortname blank to disable comments site-wide.
