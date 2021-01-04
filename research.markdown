@@ -6,7 +6,7 @@ permalink: /research/
 
 ### Publications
 **Impact of processed food (canteen and oil wastes) on the development of black soldier fly (*Hermetia illucens*) larvae and their gut microbiome functions.** Thomas Klammsteiner, Andreas Walter, Tajda Bogataj, Carina D. Heussler, Blaz Stres, Florian M. Steiner, Birgit C. Schlick-Steiner, Heribert Insam. *Frontiers in Microbiology*, TBA, 2021.  
-[**DOI**](https://doi.org/10.3389/fmicb.2021.619112) | [**PDF**](https://tklammsteiner.github.io/fromwastetofeed/docs/papers/2021-Klammsteiner.pdf)  
+[**DOI**](https://doi.org/10.3389/fmicb.2021.619112) | [**PDF**](https://tklammsteiner.github.io/fromwastetofeed/docs/papers/2021-Klammsteiner-a.pdf)  
 
 **Black soldier fly school workshops as means to promote circular economy and environmental awareness.** Andreas Walter\*, Thomas Klammsteiner\*, Magdalena Gassner, Carina D. Heussler, Suzanne Kapelari, Markus Schermer, Heribert Insam. *Sustainability*, 12(22), 9574, 2020. (\**equal contribution*)  
 [**DOI**](https://doi.org/10.3390/su12229574) | [**PDF**](https://tklammsteiner.github.io/fromwastetofeed/docs/papers/2020-Walter.pdf)  
