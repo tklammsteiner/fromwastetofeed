@@ -14,7 +14,7 @@ permalink: /research/
 **Suitability of black soldier fly frass as soil amendment and implication for organic waste hygienization.** Thomas Klammsteiner, Veysel Turan, Marina Fernández-Delgado Juárez, Simon Oberegger, Heribert Insam. *Agronomy*, 10(10), 1578, 2020.  
 [**DOI**](https://doi.org/10.3390/agronomy10101578) | [**PDF**](https://tklammsteiner.github.io/fromwastetofeed/docs/papers/2020-Klammsteiner-c.pdf)  
 
-**The core gut microbiome of Black Soldier Fly (*Hermetia illucens*) larvae raised on low-bioburden diets.** Thomas Klammsteiner, Andreas Walter, Tajda Bogataj, Carina D. Heussler, Blaž Stres, Florian M. Steiner, Birgit C. Schlick-Steiner, Wolfgang Arthofer, Heribert Insam. *Frontiers in Microbiology*, 11, 2020.  
+**The core gut microbiome of Black Soldier Fly (*Hermetia illucens*) larvae raised on low-bioburden diets.** Thomas Klammsteiner, Andreas Walter, Tajda Bogataj, Carina D. Heussler, Blaž Stres, Florian M. Steiner, Birgit C. Schlick-Steiner, Wolfgang Arthofer, Heribert Insam. *Frontiers in Microbiology*, 11, 993, 2020.  
 [**DOI**](https://doi.org/10.3389/fmicb.2020.00993) | [**PDF**](https://tklammsteiner.github.io/fromwastetofeed/docs/papers/2020-Klammsteiner-b.pdf)  
 
 **On everyone’s lips: insects for food and feed.** Thomas Klammsteiner, Andreas Walter, Heinrich Pan, Magdalena Gassner, Carina D. Heussler, Markus Schermer, Heribert Insam. *Proceedings of Science*, 366, 2020.  
