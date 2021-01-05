@@ -7,10 +7,6 @@ categories: jekyll update
 
 A new article focussing on the black soldier fly gut microbiome and its metabolic functions has been accepted for publication as part of the current research topic "*Microbial Dynamics During Industrial Rearing And Processing Of Insects*" in Frontiers of Microbiology. The paper is accessible via an open access license at [https://www.frontiersin.org/articles/10.3389/fmicb.2021.619112/abstract](https://www.frontiersin.org/articles/10.3389/fmicb.2021.619112/abstract)
   
-<p float=left>
-	<img src="https://raw.githubusercontent.com/tklammsteiner/fromwastetofeed/gh-pages/media/canteen-waste.png">
-</p>
-
 <p>
 <a href="https://www.frontiersin.org/articles/10.3389/fmicb.2021.619112/abstract"><img src="https://raw.githubusercontent.com/tklammsteiner/fromwastetofeed/gh-pages/media/canteen-waste.png">
 </a>
