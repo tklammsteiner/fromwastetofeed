@@ -16,7 +16,9 @@ A new article focussing on the black soldier fly gut microbiome and its metaboli
 </a>
 </p>
 
+<p align="justify" style="font-size:10pt">
 **Figure 2.** Performance of black soldier fly larvae, pupae, and their three diets. (A)Dotted lines represent the impact of diet on the increase of larval fresh weight (n = 4). The red line highlights the survival of larvae on OWD. (B) Bars indicate thefresh weight of pupae in relation to their time of harvest. The lines show the fraction of larvae that transitioned to pupal stage in each sampling time point. Larvae fed with OWD did not reach  pupal stage and are not shown in the graph. (n  =  4) (C)Principal component analysis based on physicochemical properties of fresh substrates (-S) and substrate residues (-R). The three clusters of variables represented by the arrows were determined by k-means clustering and are distinguished by different shades of grey (fresh: n = 3; residues: n = 4). (D)Hierarchical clustering of sample replicates. Grey backgrounds represent sample clusters determined by the gap statistics method.CFD, chicken feed diet; FWD, food waste diet; OWD, oil waste diet; HUM = pine humus; Prot, proteins; N<sub>tot</sub>, total nitrogen; C<sub>tot</sub>, total carbon; VS, volatile solids; COD, chemical oxygen demand; (i-)Valer, (i-)valerate; (i-)Butyr, i-Butyrate; Form, formate; Lact, lactate; Acet, acetate.  
+</p>
 
 **Publication**:  
   
