@@ -52,13 +52,13 @@ permalink: /projects/
 **Project description**: The aim of this project was to establish a Black Soldier Fly laboratory population at the Department of Microbiology, University of Innsbruck. Subsequently, various experiments to improve small-scale rearing were conducted. Particular focus was put on dietary treatments for larvae and their impact on the gut microbiome as well as finding optimal light sources for adult mating and oviposition.
 
 **Publications**:  
-* Klammsteiner et al. (2021): Impact of processed food (canteen and oil wastes) on the development of black soldier fly (*Hermetia illucens*) larvae and their gut microbiome functions. *Front Microbiol*, TBA.  
+* Klammsteiner et al. (2021): Impact of processed food (canteen and oil wastes) on the development of black soldier fly (*Hermetia illucens*) larvae and their gut microbiome functions. *Front Microbiol*, 12, 619112.  
 [**DOI**](https://doi.org/10.3389/fmicb.2021.619112) | [**PDF**](https://tklammsteiner.github.io/fromwastetofeed/docs/papers/2021-Klammsteiner-a.pdf)  
 
 * Klammsteiner et al. (2020): Suitability of black soldier fly frass as soil amendment and implication for organic waste hygienization. *Agronomy*, 10(10), 1578.  
 [**DOI**](https://doi.org/10.3390/agronomy10101578) | [**PDF**](https://tklammsteiner.github.io/fromwastetofeed/docs/papers/2020-Klammsteiner-c.pdf)  
 
-* Klammsteiner et al. (2020): The core gut microbiome of  Black Soldier Fly (*Hermetia illucens*) raised on low-bioburden diets. *Front Microbiol*, 11.  
+* Klammsteiner et al. (2020): The core gut microbiome of  Black Soldier Fly (*Hermetia illucens*) raised on low-bioburden diets. *Front Microbiol*, 11, 993.  
 [**DOI**](https://doi.org/10.3389/fmicb.2020.00993) | [**PDF**](https://tklammsteiner.github.io/fromwastetofeed/docs/papers/2020-Klammsteiner-b.pdf) 
 
 * Heussler et al. (2018): Influence of three artificial light sources on oviposition and half-life of the Black Soldier Fly, *Hermetia illucens* (Diptera: Stratiomyidae): Improving small-scale indoor rearing. *PLOS ONE*, 13, e0197896.  
