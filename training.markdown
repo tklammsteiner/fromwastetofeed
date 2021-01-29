@@ -14,14 +14,16 @@ If you are interested in working with us feel free to send us a mail.
 
 ### Current students
 
-**2020** - **Erasmus+ Internship** - Nazlıcan Yalçın, TU  
-**Description**: This internship provided an opportunity to observe the process of black soldier fly breeding and to gain in-depth knowledge on this subject. After characterizing the structure of various organic wastes, they were used as a substrate for feeding black soldier fly larvae and their impact on the growth parameters of the larvae were evaluated. In addition to the black soldier fly project, a general knowledge of the biogas production process was obtained and some basic microbiological analysis methods were learned.
+
 
 <br>
 
 ***
 
 ### Past students
+
+**2020** - **Erasmus+ Internship** - Nazlıcan Yalçın, TU  
+**Description**: This internship provided an opportunity to observe the process of black soldier fly breeding and to gain in-depth knowledge on this subject. After characterizing the structure of various organic wastes, they were used as a substrate for feeding black soldier fly larvae and their impact on the growth parameters of the larvae were evaluated. In addition to the black soldier fly project, a general knowledge of the biogas production process was obtained and some basic microbiological analysis methods were learned.
 
 **2020** - **Bachelor Thesis** - Philipp Eckert; DE | [[**Thesis**]](https://tklammsteiner.github.io/fromwastetofeed/docs/theses/2020-Eckert.pdf)  
 **Title**: Optimierung und Evaluierung einer bestehenden Zucht von *Hermetia illucens* und molekularbiologische Analyse der Oberflächenmikrobiota von *Hermetia*-Eipaketen.  
