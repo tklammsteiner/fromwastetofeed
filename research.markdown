@@ -28,6 +28,9 @@ permalink: /research/
 ***
 
 ### Conference contributions
+**How high-performance computing brings our understanding of insect-based gut microbiomes to the next level.** Thomas Klammsteiner, Heribert Insam, Bostjan Murovec,
+Blaz Stres. *1st Austrian-Slovenian High-Performance Computing Meeting 2021 - ASHPC21*, Maribor, Slovenia. 31. May-02. June 2021.
+
 **A citizen science-based approach to promote circular economy in the context of a fast-growing insect industry.** Thomas Klammsteiner, Andreas Walter, Carina D. Heussler, Magdalena Gaßner, Heribert Insam. *8th International Conference on Sustainable Solid Waste Management*, Thessaloniki, Greece. 23.-26. June 2021.  
 
 **Black Soldier Fly (*Hermetia illucens*, Diptera: Stratiomyidae) Frass as Fertilizer.** Thomas Klammsteiner, Veysel Turan, Heribert Insam, Marina Fernández-Delgado Juárez. *7th International Conference on Sustainable Solid Waste Management*, Crete Island, Greece. 26.-28. June 2019.  
