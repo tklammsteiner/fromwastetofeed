@@ -32,7 +32,7 @@ permalink: /projects/
 #### Six-legged Livestock: Rearing Black Soldier Fly on Biowaste  
 **Funding source**: Austrian Science Fund (FWF) | [**Grant link**](https://pf.fwf.ac.at/en/research-in-practice/project-finder?search[what]=Six-legged+Livestock%3A+Rearing+Black+Soldier+Fly+on+biowaste)
 
-**Project description**: In this citizen science project, we conceptualized insect rearing workshops for both schools and a public audience. Within these workshops, participants built their own Black Soldier Fly rearing system and conducted a three-week feeding experiment at home. Two-hundred larvae were fed with daily accumulating kitchen wastes and food leftovers, and their growth progress was documented using an enclosed precision scale. 
+**Project description**: In this citizen science project, we conceptualized insect rearing workshops for both schools and a public audience. Within these workshops, participants built their own black soldier fly rearing system and conducted a three-week feeding experiment at home. Two-hundred larvae were fed with daily accumulating kitchen wastes and food leftovers, and their growth progress was documented using an enclosed precision scale. 
 
 **Publications**:  
 * Walter and Klammsteiner et al. (2020): Black soldier fly school workshops as means to promote circular economy and environmental awareness. *Sustainability*, 12(20), 19574.  
@@ -49,7 +49,7 @@ permalink: /projects/
 #### From Waste to Feed: Waste Products as a Source of Protein-rich Feedstuff
 **Funding source**: Austrian Science Fund (FWF) | [**Grant link**](https://pf.fwf.ac.at/en/research-in-practice/project-finder/31609)
 
-**Project description**: The aim of this project was to establish a Black Soldier Fly laboratory population at the Department of Microbiology, University of Innsbruck. Subsequently, various experiments to improve small-scale rearing were conducted. Particular focus was put on dietary treatments for larvae and their impact on the gut microbiome as well as finding optimal light sources for adult mating and oviposition.
+**Project description**: The aim of this project was to establish a black soldier fly laboratory population at the Department of Microbiology, University of Innsbruck. Subsequently, various experiments to improve small-scale rearing were conducted. Particular focus was put on dietary treatments for larvae and their impact on the gut microbiome as well as finding optimal light sources for adult mating and oviposition.
 
 **Publications**:  
 * Klammsteiner et al. (2021): Impact of processed food (canteen and oil wastes) on the development of black soldier fly (*Hermetia illucens*) larvae and their gut microbiome functions. *Front Microbiol*, 12, 619112.  
@@ -58,10 +58,10 @@ permalink: /projects/
 * Klammsteiner et al. (2020): Suitability of black soldier fly frass as soil amendment and implication for organic waste hygienization. *Agronomy*, 10(10), 1578.  
 [**DOI**](https://doi.org/10.3390/agronomy10101578) | [**PDF**](https://tklammsteiner.github.io/fromwastetofeed/docs/papers/2020-Klammsteiner-c.pdf)  
 
-* Klammsteiner et al. (2020): The core gut microbiome of  Black Soldier Fly (*Hermetia illucens*) raised on low-bioburden diets. *Front Microbiol*, 11, 993.  
+* Klammsteiner et al. (2020): The core gut microbiome of  black soldier fly (*Hermetia illucens*) raised on low-bioburden diets. *Front Microbiol*, 11, 993.  
 [**DOI**](https://doi.org/10.3389/fmicb.2020.00993) | [**PDF**](https://tklammsteiner.github.io/fromwastetofeed/docs/papers/2020-Klammsteiner-b.pdf) 
 
-* Heussler et al. (2018): Influence of three artificial light sources on oviposition and half-life of the Black Soldier Fly, *Hermetia illucens* (Diptera: Stratiomyidae): Improving small-scale indoor rearing. *PLOS ONE*, 13, e0197896.  
+* Heussler et al. (2018): Influence of three artificial light sources on oviposition and half-life of the black soldier fly, *Hermetia illucens* (Diptera: Stratiomyidae): Improving small-scale indoor rearing. *PLOS ONE*, 13, e0197896.  
 [**DOI**](https://doi.org/10.1371/journal.pone.0197896) | [**PDF**](https://tklammsteiner.github.io/fromwastetofeed/docs/papers/2018-Heussler.pdf)
 <br>  
 
