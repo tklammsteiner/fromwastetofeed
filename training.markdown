@@ -6,7 +6,7 @@ permalink: /training/
 
 ### Open positions
 Currently, we do not have specific project work to offer.  
-If you are interested in working with us feel free to send us a mail.
+If you are interested in working with us feel free to send us [an email](mailto:fromwastetofeed@outlook.com).
 
 <br>
 
