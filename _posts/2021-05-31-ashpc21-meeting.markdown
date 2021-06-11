@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 
 At the first Austrian-Slovenian High-Performance Computing meeting, we got the opportunity to present insights into the workflow of a currently ongoing meta-analysis of the black soldier fly microbiome and outlined some of the obstacles we encountered. 
-With the increasing relevance of bioconverting agro-industrial by-products and organic wastes through insect farming, special emphasis should be put on microbial dynamics during rearing and in post-production wastes. The high diversity in sampling depth and analysis protocols across BSF microbiome studies motivated us to compile a comprehensive collection of available datasets to enable a streamlined analysis according to established protocols. The computational work was conducted using the HPC platforms of the University of Innsbruck and University of Ljubljana. 
+With the increasing relevance of bioconverting agro-industrial by-products and organic wastes through insect farming, special emphasis should be put on microbial dynamics during rearing and in post-production wastes. The high diversity in sampling depth and analysis protocols across BSF microbiome studies motivated us to compile a comprehensive collection of available datasets to enable a streamlined analysis according to established protocols. The computational work was conducted using the HPC platforms of the University of Innsbruck and University of Ljubljana.  
 
 The research was supported by a [COST action (CA18131)](https://www.ml4microbiome.eu/) STSM grant.   
 
