@@ -10,7 +10,7 @@ With the increasing relevance of bioconverting agro-industrial by-products and o
 
 The abstract booklet can be accessed here: [https://doi.org/10.3359/2021hpc](https://doi.org/10.3359/2021hpc)  
 
-<a><img src="https://raw.githubusercontent.com/tklammsteiner/fromwastetofeed/gh-pages/docs/conferences/2021_ASHPC21_Klammsteiner_poster.png">
+<a><img src="https://raw.githubusercontent.com/tklammsteiner/fromwastetofeed/gh-pages/docs/conferences/2021_ASHPC21_Klammsteiner_poster.png"></a>
 
 **Publication**:  
   
