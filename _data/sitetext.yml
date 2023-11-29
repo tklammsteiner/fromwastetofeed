@@ -108,20 +108,26 @@ en: &DEFAULT_EN
   clients:
     section: clients
     max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
+    horizontal-scrolling: "no" #"yes/no"
     list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+      - title: "UIBK"
+        url: https://uibk.ac.at/en
+        logo: assets/img/funding/uibk.png
+      - title: "FWF"
+        url: https://fwf.ac.at/en
+        logo: assets/img/funding/fwf.png
+      - title: "FFG"
+        url: https://ffg.at/en
+        logo: assets/img/funding/ffg_black.png
+      - title: "TWF"
+        url: https://www.tirol.gv.at/en/
+        logo: assets/img/funding/lt.png
+      - title: "OeAD"
+        url: https://oead.at/en/
+        logo: assets/img/funding/oead.png
+      - title: "ASEA-UNINET"
+        url: https://asea-uninet.org/
+        logo: assets/img/funding/asea-uninet.png
 
   team:
     title: "TEAM"
@@ -133,20 +139,18 @@ en: &DEFAULT_EN
         role: "Postdoctoral Researcher"
         image: assets/img/team/tk.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://linkedin.com
+          - url: https://tklammsteiner.github.io
+            icon: fa fa-globe
+          - url: https://www.linkedin.com/in/tklammsteiner
             icon: fab fa-linkedin-in
+          - url: https://scholar.google.com/citations?user=jI_Q6tgAAAAJ&hl=de
+            icon: ai ai-google-scholar
+          - url: https://www.researchgate.net/profile/Thomas-Klammsteiner
+            icon: ai ai-researchgate
       - name: "Heribert Insam"
         role: "Professor"
         image: assets/img/team/hi.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
       - name: "Florian Steiner"
         role: "Assoc. Professor"
         image: assets/img/team/fms.jpg
@@ -157,8 +161,6 @@ en: &DEFAULT_EN
         role: "Postdoctoral Researcher"
         image: assets/img/team/cdh.jpg
         social:
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
       - name: "Linda Tekaat"
         role: "Master student"
         image: assets/img/team/500x500.jpg
