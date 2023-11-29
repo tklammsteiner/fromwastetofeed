@@ -27,7 +27,7 @@ en: &DEFAULT_EN
 
   services:
     title: "Publications"
-    text: "Lorem ipsum"
+    text: ""
     section: services
     list:
       - title: "E-Commerce"
@@ -41,8 +41,8 @@ en: &DEFAULT_EN
         icon: fab fa-markdown
 
   portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "Projects"
+    text: "Applied and basic research"
     section: portfolio
     closebutton: "Close Project"
 
