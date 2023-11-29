@@ -131,7 +131,7 @@ en: &DEFAULT_EN
     people:
       - name: "Thomas Klammsteiner"
         role: "Postdoctoral Researcher"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/tk.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -139,7 +139,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
       - name: "Heribert Insam"
         role: "Professor"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/hi.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -149,13 +149,13 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
       - name: "Florian Steiner"
         role: "Assoc. Professor"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/fms.jpg
       - name: "Birgit Schlick-Steiner"
         role: "Professor"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/bcss.jpg
       - name: "Carina Heussler"
         role: "Postdoctoral Researcher"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/cdh.jpg
         social:
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
