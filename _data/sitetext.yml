@@ -67,6 +67,7 @@ en: &DEFAULT_EN
         year: "2020-2021"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
         image: assets/img/timeline/2.jpg
+        align: right
         alt:
       - title: "Insect breeding and biotechnology (Pt.1)"
         year: "2020-2021"
@@ -77,7 +78,7 @@ en: &DEFAULT_EN
         year: "2021-2022"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
         image: assets/img/timeline/2.jpg
-        align: right
+        align: left
         alt:
       - title: "ChitoBSF"
         year: "2022-2024"
@@ -94,12 +95,11 @@ en: &DEFAULT_EN
         desc: "Your description here, **Markdown** is fully supported."
         image: assets/img/timeline/4.jpg
         alt:
-        # you can enforce the alignment
-        align: right
       - title: "Frass4Gas: Thailand"
         year: "2023"
         desc: "Your description here, **Markdown** is fully supported."
         image: assets/img/timeline/4.jpg
+        align: right
         alt:
         # you can enforce the alignment
         align: right
