@@ -9,14 +9,14 @@ p {
 }
 
 a {
-  color: $primary;
+  color: $new-yel;
   &:hover {
-    color: darken($primary, 10%);
+    color: darken($new-yel, 10%);
   }
 }
 
 .text-primary {
-  color: $primary !important;
+  color: $new-yel !important;
 }
 
 h1,
@@ -53,12 +53,12 @@ h6 {
 
 // Highlight color customization
 ::-moz-selection {
-  background: $primary;
+  background: $new-yel;
   text-shadow: none;
 }
 
 ::selection {
-  background: $primary;
+  background: $new-yel;
   text-shadow: none;
 }
 

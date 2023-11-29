@@ -10,17 +10,17 @@
 }
 
 .btn-primary {
-  background-color: $primary;
-  border-color: $primary;
+  background-color: $new-yel;
+  border-color: $new-yel;
   &:active,
   &:focus,
   &:hover {
-    background-color: darken($primary, 7.5%) !important;
-    border-color: darken($primary, 7.5%) !important;
+    background-color: darken($new-yel, 7.5%) !important;
+    border-color: darken($new-yel, 7.5%) !important;
     color: white;
   }
   &:active,
   &:focus {
-    box-shadow: 0 0 0 0.2rem rgba(254, 209, 55, 0.5) !important;
+    box-shadow: 0 0 0 0.2rem rgba(20, 102, 84, 0.5) !important;
   }
 }
