@@ -3,11 +3,13 @@ title: Semiochemical communication
 subtitle: Lorem ipsum dolor sit amet consectetur.
 image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-full.jpg
 alt: ""
+thumbnail: assets/img/projects/semchemcom.jpg
+
 
 caption:
   title: Semiochemical communication
   subtitle: Austrian Science Fund (FWF)
-  thumbnail: https://place-hold.it/400x300
+  thumbnail: assets/img/projects/semchemcom.jpg
 ---
 
 Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!

@@ -2,7 +2,7 @@
 #what displays when the item is clicked:
 title: From Waste To Feed
 subtitle: Waste products as a source for protein-rich animal feed.
-image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
+#image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
 alt: ""
 
 caption: #what displays in the portfolio grid:

@@ -3,7 +3,6 @@ title: "Frass4Gas: Thailand"
 subtitle: "Insect farming residues for biogas production"
 image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-full.jpg
 alt: ""
-thumbnail: assets/img/projects/f4gthailand.jpg
 
 
 caption:
