@@ -1,8 +1,8 @@
 ---
 title: "Frass4Gas: Thailand"
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
+subtitle: "Insect farming residues for biogas production"
 image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-full.jpg
-alt: Shirts on a hanger
+alt: ""
 thumbnail: assets/img/projects/f4gthailand.jpg
 
 
@@ -16,6 +16,7 @@ Use this area to describe your project. **Markdown** supported. This entry (proj
 
 {:.list-inline}
 
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
+- Date: 2022-2023
+- Category: Basic research
+- Funding agency: Agency for Education and Internationalisation (OeAD) / ASEA-UNINET
+- Budget: 10,400 €

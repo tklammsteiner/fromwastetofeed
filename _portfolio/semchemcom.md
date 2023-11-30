@@ -2,7 +2,7 @@
 title: Semiochemical communication
 subtitle: Lorem ipsum dolor sit amet consectetur.
 image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-full.jpg
-alt: Keep Exploring
+alt: ""
 
 caption:
   title: Semiochemical communication
@@ -14,6 +14,8 @@ Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur 
 
 {:.list-inline}
 
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
+- Date: 2012-2026
+- Category: Basic research
+- Funding agency: Austrian Science Fund (FWF)
+- Budget: 590,725 €
+- Link: [Grant no. P35401](https://www.fwf.ac.at/en/research-radar/10.55776/P35401)

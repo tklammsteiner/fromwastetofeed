@@ -26,19 +26,19 @@ en: &DEFAULT_EN
     section: about
 
   services:
-    title: "Publications"
+    title: "Research"
     text: ""
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "Publications"
+        desc: "List of publications"
+        icon: fas fa-solid fa-book
+      - title: "Conferences"
+        desc: "Talks, posters, workshops"
+        icon: fas fa-solid fa-users
+      - title: "News"
+        desc: "News articles, interviews, etc."
+        icon: fas fa-solid fa-newspaper
 
   portfolio:
     title: "Projects"

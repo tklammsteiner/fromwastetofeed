@@ -1,13 +1,13 @@
 ---
-title: Six-legged Livestock
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
+title: "Six-legged Livestock"
+subtitle: "Rearing black soldier fly larvae on biowaste"
 image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-full.jpg
-alt: Shirts on a hanger
+alt: ""
 thumbnail: assets/img/projects/sixleggedlivestock.jpg
 
 
 caption:
-  title: Six-legged Livestock
+  title: "Six-legged Livestock"
   subtitle: Austrian Science Fund (FWF)
   thumbnail: assets/img/projects/sixleggedlivestock.jpg
 ---
@@ -16,6 +16,8 @@ Use this area to describe your project. **Markdown** supported. This entry (proj
 
 {:.list-inline}
 
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
+- Date: 2018-2019
+- Category: Basic research
+- Funding agency: Austrian Science Fund (FWF)
+- Budget: 50,702 €
+- Link: [Grant no. TCS48](https://www.fwf.ac.at/en/research-radar/10.55776/TCS48)

@@ -1,14 +1,14 @@
 ---
-title: Frass4Gas
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
+title: "Frass4Gas"
+subtitle: "Pre-treatment of industrial insect breeding residues for anaerobic digestion"
 image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-full.jpg
-alt: Shirts on a hanger
+alt: ""
 thumbnail: https://place-hold.it/400x300
 
 
 caption:
-  title: Frass4Gas
-  subtitle: Early Stage Funding (Universität Innsbruck)
+  title: "Frass4Gas"
+  subtitle: Early Stage Funding (UIBK)
   thumbnail: https://place-hold.it/400x300
 ---
 
@@ -16,6 +16,8 @@ Use this area to describe your project. **Markdown** supported. This entry (proj
 
 {:.list-inline}
 
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
+- Date: 2021
+- Category: Basic research
+- Funding agency: Early Stage Funding / Universität Innsbruck
+- Budget: 4,985 €
+

@@ -1,14 +1,14 @@
 ---
-title: "COHMILA"
-subtitle: "Co-housing effect on the microbiome of black soldier fly larvae"
+title: "ChitoBSF"
+subtitle: "Expanding the value chain – biological extraction of chitosan for insect-based waste bioconversion"
 image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-full.jpg
 alt: ""
 thumbnail: https://place-hold.it/400x300
 
 
 caption:
-  title: "COHMILA"
-  subtitle: Tiroler Wissenschaftsförderung
+  title: "ChitoBSF"
+  subtitle: Austrian Research Promotion Agency (FFG)
   thumbnail: https://place-hold.it/400x300
 ---
 
@@ -16,9 +16,7 @@ Use this area to describe your project. **Markdown** supported. This entry (proj
 
 {:.list-inline}
 
-- Date: 2020-2021
-- Category: Basic research
-- Funding agency: Tiroler Wissenschaftsförderung
-- Budget: 16,000 €
-- Link: [COHMILA Shiny App](https://tklammsteiner.shinyapps.io/cohmila-app/)
-
+- Date: 2022-2024
+- Category: Applied research
+- Funding agency: Austrian Research Promotion Agency (FFG)
+- Budget: 344,903 €
