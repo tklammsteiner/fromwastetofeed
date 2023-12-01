@@ -8,7 +8,7 @@ alt: ""
 caption: #what displays in the portfolio grid:
   title: From Waste To Feed
   subtitle: Austrian Science Fund (FWF)
-  thumbnail: https://place-hold.it/400x300
+  thumbnail: assets/img/projects/fwtf.jpg
 ---
 Use this area to describe your project. **Markdown** supported.
 
