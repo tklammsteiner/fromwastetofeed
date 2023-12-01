@@ -50,11 +50,11 @@
   <header class="masthead">
     <div class="container">
       <div class="intro-text">
-	  {%- if site.data.sitetext[site.locale].header.title -%}
-        <div class="intro-lead-in">{{ site.data.sitetext[site.locale].header.title | markdownify }}</div>
-	  {%- endif -%}
-	  {%- if site.data.sitetext[site.locale].header.text -%}
-        <div class="intro-heading text-uppercase" style="background: rgba(187, 183, 179, 0.5); color: rgb(255, 255, 255);">{{ site.data.sitetext[site.locale].header.text | markdownify }}</div>
+    {%- if site.data.sitetext[site.locale].header.text -%}
+        <div class="intro-heading text-uppercase" style="background: rgba(187, 183, 179, 0.6); color: rgb(255, 255, 255);">{{ site.data.sitetext[site.locale].header.text | markdownify }}</div>
+	  {%- endif -%}	  
+    {%- if site.data.sitetext[site.locale].header.title -%}
+        <div class="intro-lead-in" style="background: rgba(187, 183, 179, 0.6); color: rgb(255, 231, 13);">{{ site.data.sitetext[site.locale].header.title | markdownify }}</div>
 	  {%- endif -%}
 	  {%- if site.data.sitetext[site.locale].header.button -%}
         <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" style="background: rgb(255, 255, 255); border-color: transparent; color: rgb(0, 0, 0);" href="{{ site.data.sitetext[site.locale].header.buttonlink }}">{{ site.data.sitetext[site.locale].header.button }}</a>

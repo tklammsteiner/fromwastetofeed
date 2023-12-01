@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: 
     text: From Waste To Feed
+    title: "A multidisciplinary approach to yellow biotech"
     button: About us
     buttonlink: "#about"
 
