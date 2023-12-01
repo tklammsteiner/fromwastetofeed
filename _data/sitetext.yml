@@ -83,13 +83,13 @@ en: &DEFAULT_EN
       - title: "ChitoBSF"
         year: "2022-2024"
         desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-        image: assets/img/timeline/cbsf.jpg
-        alt: image alt text
+        image: assets/img/timeline/chitobsf.jpg
+        alt: 
       - title: "Semiochemical communication"
         year: "2022-2026"
         desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
         image: assets/img/timeline/scc.jpg
-        alt: image alt text
+        alt: 
       - title: "Frass4Gas"
         year: "2022-2023"
         desc: "Your description here, **Markdown** is fully supported."
