@@ -61,23 +61,23 @@ en: &DEFAULT_EN
       - title: "Six-legged Livestock"
         year: "2018-2019"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
+        image: assets/img/timeline/sll.jpg
         alt:
       - title: "COHMILA"
         year: "2020-2021"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
+        image: assets/img/timeline/cma.jpg
         align: right
         alt:
       - title: "Insect breeding and biotechnology (Pt.1)"
         year: "2020-2021"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
+        image: assets/img/timeline/eco.jpg
         alt:
       - title: "Insect breeding and biotechnology (Pt.2)"
         year: "2021-2022"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
+        image: assets/img/timeline/eco_2.jpg
         align: left
         alt:
       - title: "ChitoBSF"
@@ -93,12 +93,12 @@ en: &DEFAULT_EN
       - title: "Frass4Gas"
         year: "2022-2023"
         desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
+        image: assets/img/timeline/f4g.jpg
         alt:
       - title: "Frass4Gas: Thailand"
         year: "2023"
         desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
+        image: assets/img/timeline/f4gt.jpg
         align: right
         alt:
         # you can enforce the alignment
