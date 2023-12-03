@@ -30,7 +30,7 @@ en: &DEFAULT_EN
     text: ""
     section: services
     list:
-      - title: "Publications"
+      - title: "[Publications](research/publications)"
         desc: "List of publications"
         icon: fas fa-solid fa-book
       - title: "Conferences"
@@ -151,16 +151,26 @@ en: &DEFAULT_EN
         role: "Professor"
         image: assets/img/team/hi.jpg
         social:
-      - name: "Florian Steiner"
+          - url: https://www.uibk.ac.at/de/microbiology/team/insam_heribert/
+            icon: fa fa-globe
+      - name: "Florian M. Steiner"
         role: "Assoc. Professor"
         image: assets/img/team/fms.jpg
-      - name: "Birgit Schlick-Steiner"
+        social:
+          - url: https://molecular-ecology.at/florian-m-steiner/
+            icon: fa fa-globe
+      - name: "Birgit C. Schlick-Steiner"
         role: "Professor"
         image: assets/img/team/bcss.jpg
-      - name: "Carina Heussler"
+        social:
+          - url: https://molecular-ecology.at/birgit-c-schlick-steiner/
+            icon: fa fa-globe
+      - name: "Carina D. Heussler"
         role: "Postdoctoral Researcher"
         image: assets/img/team/cdh.jpg
         social:
+          - url: https://molecular-ecology.at/carina-d-heussler/
+            icon: fa fa-globe
       - name: "Linda Tekaat"
         role: "Master student"
         image: assets/img/team/500x500.jpg
