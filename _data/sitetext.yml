@@ -30,13 +30,13 @@ en: &DEFAULT_EN
     text: ""
     section: services
     list:
-      - title: "[Publications](research/publications)"
+      - title: "[Publications](publications)"
         desc: "List of publications"
         icon: fas fa-solid fa-book
-      - title: "Conferences"
+      - title: "[Conferences](conferences)"
         desc: "Talks, posters, workshops"
         icon: fas fa-solid fa-users
-      - title: "News"
+      - title: "[News](news)"
         desc: "News articles, interviews, etc."
         icon: fas fa-solid fa-newspaper
 
