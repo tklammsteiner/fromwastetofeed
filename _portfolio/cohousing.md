@@ -12,7 +12,11 @@ caption:
   thumbnail: assets/img/projects/cohmila.jpg
 ---
 
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+Emerging industrial applications involving insects hold significant promise in addressing two pressing socio-ecological challenges: (I) the escalating volumes of biodegradable organic waste and (II) the rising costs of animal feed. The larvae of the Black Soldier Fly (BSFL), with their nutrient-rich profile marked by high protein and fat content, have become a focal point for research. Effectively transforming biodegradable waste into larval biomass suitable for animal feed, BSFL offer a dual solution to these challenges.
+
+In our FWF Top Citizen Science project, citizens engaged in workshops, rearing their own BSFL in specially designed containers as an alternative to traditional bio-waste disposal. Over a three-week period, participants fed the larvae with their daily household kitchen waste, meticulously documenting their developmental progress. Recognizing the crucial role of microorganisms in the broad degradation capability of BSFL, this proposed project aims to expand the scientific inquiry by incorporating microbiological aspects.
+
+The project's focus involves identifying bacterial communities within the guts of the larvae and substrate residues obtained from concluded feeding experiments. This exploration enables insights into how different waste patterns impact the gut microbiome composition and how larvae influence their environment. Employing predictive metagenomic approaches enhances the data's informativeness, illustrating the metabolic capabilities of the microbiota residing in the larvae's digestive systems. This microbial perspective aims to deepen our understanding of the intricate interactions within the BSFL bioconversion process, contributing valuable insights to sustainable waste management and resource utilization.
 
 {:.list-inline}
 
