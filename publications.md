@@ -58,7 +58,10 @@ background: grey
 <br>
 
 ## 2018
-- Klammsteiner, T., Heussler, C.D., Walter, A., Insam, H., 2018a. Vom Abfall zum Futtermittel: Maden als Proteinquelle. *Biobased Future - Mitteilungsblatt über Biomasse für Energie und Industrie in einer nachhaltigen Wirtschaft* 9, 1-  
+- Klammsteiner, T., Heussler, C.D., Walter, A., Insam, H., 2018a. Vom Abfall zum Futtermittel: Maden als Proteinquelle. *Biobased Future - Mitteilungsblatt über Biomasse für Energie und Industrie in einer nachhaltigen Wirtschaft* 9, 11  
 
 - Heussler, C.D., Walter, A., Oberkofler, H., Insam, H., Arthofer, W., Schlick-Steiner, B.C., Steiner, F.M., 2018. Influence of three artificial light sources on oviposition and half-life of the black soldier fly, *Hermetia illucens* (Diptera: Stratiomyidae): Improving small-scale indoor rearing. *PLOS ONE* 13, e0197896.  
 [doi.org/10.1371/journal.pone.0197896](https://doi.org/10.1371/journal.pone.0197896)
+
+
+<br>
