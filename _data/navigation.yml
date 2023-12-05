@@ -15,7 +15,7 @@ en: &DEFAULT_EN
       section: about
     - title: "Projects"
       section: portfolio
-    - title: "Publications"
+    - title: "Research"
       section: services
     - title: "Timeline"
       section: timeline
