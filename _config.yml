@@ -14,8 +14,8 @@
 # theme: jekyll-agency
 remote_theme:
 
-url    : "" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/fromwastetofeed2" # the subpath of your site, e.g. /blog
+url    : "https://fromwastetofeed.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : From Waste To Feed
 email      : fromwastetofeed@outlook.com #this is also the email contact forms will go to
