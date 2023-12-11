@@ -157,6 +157,12 @@ en: &DEFAULT_EN
         social:
           - url: https://www.uibk.ac.at/de/microbiology/team/insam_heribert/
             icon: fa fa-globe
+          - url: https://www.linkedin.com/in/heribert-insam-a6b16034/
+            icon: fab fa-linkedin-in
+          - url: https://scholar.google.com/citations?user=PLYKvE0AAAAJ&hl=de&oi=ao
+            icon: ai ai-google-scholar
+          - url: https://www.researchgate.net/profile/Heribert-Insam
+            icon: ai ai-researchgate
       - name: "Florian M. Steiner"
         role: "Assoc. Professor"
         image: assets/img/team/fms.jpg
@@ -169,12 +175,18 @@ en: &DEFAULT_EN
         social:
           - url: https://molecular-ecology.at/birgit-c-schlick-steiner/
             icon: fa fa-globe
+          - url: https://www.researchgate.net/profile/Birgit-Schlick-Steiner
+            icon: ai ai-researchgate
       - name: "Carina D. Heussler"
         role: "Postdoctoral Researcher"
         image: assets/img/team/cdh.jpg
         social:
           - url: https://molecular-ecology.at/carina-d-heussler/
             icon: fa fa-globe
+          - url: https://scholar.google.com/citations?user=4a3rAJkAAAAJ&hl=en&oi=ao
+            icon: ai ai-google-scholar
+          - url: https://www.researchgate.net/profile/Carina-Heussler
+            icon: ai ai-researchgate
       - name: "Linda Tekaat"
         role: "Master student"
         image: assets/img/team/500x500.jpg
