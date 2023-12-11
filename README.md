@@ -10,6 +10,7 @@ The key areas of our work involve the investigation of interkingdom relationship
 - **Instagram**: [@fromwastetofeed](https://instagram.com/fromwastetofeed)  
 - **Twitter/X**: [@fromwastetofeed](https://x.com/fromwastetofeed)  
 - **Bluesky**: [@fromwastetofeed.bsky.social](https://bsky.app/profile/fromwastetofeed.bsky.social)  
+- **Linktree**: [@fromwastetofeed](https://linktr.ee/fromwastetofeed)  
 
 
 <br>
