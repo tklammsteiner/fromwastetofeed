@@ -12,7 +12,7 @@ background: grey
 
 ## Visiting scientists
 
-2023 - Research stay - Ass. Prof. Siripuk Suraporn (Mahasarakham University), TH  
+**2023 - Research stay** - Ass. Prof. Siripuk Suraporn (Mahasarakham University), TH  
 **Description**: Collaboration within the ASEA-UNINET (OeAD) project “Frass4Gas: Thailand”  
 
 
