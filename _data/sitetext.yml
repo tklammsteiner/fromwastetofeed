@@ -59,49 +59,49 @@ en: &DEFAULT_EN
     events:
       - title: "From Waste to Feed"
         year: "2014-2018"
-        desc: ""
+        desc: "Waste products as a source for protein-rich animal feed."
         image: assets/img/timeline/fwtf.jpg
         alt:
       - title: "Six-legged Livestock"
         year: "2018-2019"
-        desc: ""
+        desc: "Rearing black soldier fly larvae on biowaste."
         image: assets/img/timeline/sll.jpg
         alt:
       - title: "COHMILA"
         year: "2020-2021"
-        desc: ""
+        desc: "Co-housing effect on the microbiome of black soldier fly larvae."
         image: assets/img/timeline/cma.jpg
         align: right
         alt:
-      - title: "Insect breeding and biotechnology (Pt.1)"
+      - title: "Mass rearing (Pt.1)"
         year: "2020-2021"
-        desc: ""
+        desc: "Breeding and biotechnology for insect farming."
         image: assets/img/timeline/eco.jpg
         alt:
-      - title: "Insect breeding and biotechnology (Pt.2)"
+      - title: "Mass rearing (Pt.2)"
         year: "2021-2022"
-        desc: ""
+        desc: "Breeding and biotechnology for insect farming."
         image: assets/img/timeline/eco_2.jpg
         align: left
         alt:
       - title: "ChitoBSF"
         year: "2022-2024"
-        desc: ""
+        desc: "Expanding the value chain – biological extraction of chitosan for insect-based waste bioconversion."
         image: assets/img/timeline/chitobsf.png
         alt: 
       - title: "Semiochemical communication"
         year: "2022-2026"
-        desc: ""
+        desc: "Microbes involved in black soldier fly oviposition."
         image: assets/img/timeline/scc.jpg
         alt: 
       - title: "Frass4Gas"
         year: "2022-2023"
-        desc: ""
+        desc: "Pre-treatment of industrial insect breeding residues for anaerobic digestion"
         image: assets/img/timeline/f4g.jpg
         alt:
       - title: "Frass4Gas: Thailand"
         year: "2023"
-        desc: ""
+        desc: "Insect farming residues for biogas production"
         image: assets/img/timeline/f4gt.jpg
         align: right
         alt:
