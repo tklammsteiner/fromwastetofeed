@@ -10,6 +10,15 @@ background: grey
 
 <br>
 
+
+## Open positions
+
+No open calls at the moment. However, if you are interested in working with us or want to investigate a specific topic for your bachelor or master thesis feel free to send us an email.  
+
+
+<br>
+
+
 ## Visiting scientists
 
 **2023 - Research stay** - Ass. Prof. Siripuk Suraporn (Mahasarakham University), TH  
@@ -18,12 +27,6 @@ background: grey
 
 <br>
 
-## Open positions
-
-No open calls at the moment. However, if you are interested in working with us or want to investigate a specific topic for your bachelor or master thesis feel free to send us an email.  
-
-
-<br>
 
 ## Current students
 
