@@ -52,7 +52,7 @@ en: &DEFAULT_EN
 
   timeline:
     title: "Timeline"
-    text: "Lorem ipsum timeline"
+    text: "Past and current projects"
     section: timeline
     # left is the default
     #start_align: "left"
@@ -107,7 +107,7 @@ en: &DEFAULT_EN
         alt:
         # you can enforce the alignment
         align: right
-    end: "Be Part <br> of Our <br> Story!"
+    end: "To be continued!"
 
   clients:
     section: clients
@@ -136,7 +136,7 @@ en: &DEFAULT_EN
   team:
     title: "TEAM"
     text: ""
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    subtext: ""
     section: team
     people:
       - name: "Thomas Klammsteiner"
@@ -152,7 +152,7 @@ en: &DEFAULT_EN
           - url: https://www.researchgate.net/profile/Thomas-Klammsteiner
             icon: ai ai-researchgate
       - name: "Heribert Insam"
-        role: "Professor"
+        role: "Professor (ret.)"
         image: assets/img/team/hi.jpg
         social:
           - url: https://www.uibk.ac.at/de/microbiology/team/insam_heribert/
@@ -191,7 +191,7 @@ en: &DEFAULT_EN
         role: "Master student"
         image: assets/img/team/500x500.jpg
       - name: "Elisa Gemassmer"
-        role: "Master student"
+        role: "Master student & research assistant"
         image: assets/img/team/500x500.jpg
 
   contact:
