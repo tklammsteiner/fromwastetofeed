@@ -177,21 +177,14 @@ en: &DEFAULT_EN
             icon: fa fa-globe
           - url: https://www.researchgate.net/profile/Birgit-Schlick-Steiner
             icon: ai ai-researchgate
-      - name: "Carina D. Heussler"
-        role: "Postdoctoral Researcher"
-        image: assets/img/team/cdh.jpg
-        social:
-          - url: https://molecular-ecology.at/carina-d-heussler/
-            icon: fa fa-globe
-          - url: https://scholar.google.com/citations?user=4a3rAJkAAAAJ&hl=en&oi=ao
-            icon: ai ai-google-scholar
-          - url: https://www.researchgate.net/profile/Carina-Heussler
-            icon: ai ai-researchgate
-      - name: "Linda Tekaat"
-        role: "Master student"
-        image: assets/img/team/500x500.jpg
       - name: "Elisa Gemassmer"
-        role: "Master student & research assistant"
+        role: "PhD Student"
+        image: assets/img/team/eg.jpg
+        social:
+          - url: https://molecular-ecology.at/elisa-gemassmer/
+            icon: fa fa-globe
+      - name: "Valerija Kovačević"
+        role: "Student Assistant"
         image: assets/img/team/500x500.jpg
 
   contact:

@@ -10,6 +10,15 @@ background: grey
 
 <br>
 
+## 2024
+- Klammsteiner, T., Tekaat, L., Heussler, C.D., Insam, H., Schlick-Steiner, B.C., Steiner, F.M., 2024. Crossroads of preference: oviposition and developmental success in black soldier fly rearing, in: Insects to Feed the World 2024. Presented at the Insects to Feed the World 2024, Brill, Singapore, p. 266.  
+Available from: [https://doi.org/10.1163/23524588-20241013](https://doi.org/10.1163/23524588-20241013)  
+
+- Klammsteiner, T., Praeg, N., 2024. Microbiome and plant-nutrient dynamics in heat-treated insect frass: implications for soil application, in: Insects to Feed the World 2024. Presented at the Insects to Feed the World 2024, Brill, Singapore, p. 187.  
+Available from: [https://doi.org/10.1163/23524588-20241013](https://doi.org/10.1163/23524588-20241013)  
+
+<br>
+
 ## 2023
 - Klammsteiner T, Murovec B, Stres B. STSM Experiences: The gut microbiome of black soldier fly larvae – a meta-analysis of available marker gene datasets. Talk presented at: Joint APC Microbiome Ireland & ML4Microbiome Conference; 2023 Aug 6; Cork, Ireland.  
 Available from: [https://www.ml4microbiome.eu](https://www.ml4microbiome.eu/activities-and-events/joint-ml4microbiome-conference-apc-microbiome-ireland-meeting/)

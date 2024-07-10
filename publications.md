@@ -11,8 +11,14 @@ background: grey
 <br>
 
 ## 2024
+- Praeg, N., Klammsteiner, T., 2024. Primary study on frass fertilizers from mass-reared insects: Species variation, heat treatment effects, and implications for soil application at laboratory scale. *J Environ Manage* 356, 120622.  
+[doi.org/10.1016/j.jenvman.2024.120622](https://doi.org/10.1016/j.jenvman.2024.120622)  
+
+- Suraporn, S., Cansee, S., Hupfauf, S., Klammsteiner, T., 2024. Lactic acid bacteria from Bombyx mori frass: Probiotic properties and antagonistic activities. *Agriculture* 14, 924.  
+[doi.org/10.3390/agriculture14060924](https://doi.org/10.3390/agriculture14060924)  
+
 - Gómez-Brandón, M., Beesigamukama, D., Probst, M., Klammsteiner, T., Zhou, Y., Zhu, Y.-G., Mbi Tanga, C., 2024. Garden fruit chafer (*Pachnoda sinuata* L.) accelerates recycling and bioremediation of animal waste. *Waste Manag* 173, 131–140.  
-[doi.org/10.1016/j.wasman.2023.11.019](https://doi.org/10.1016/j.wasman.2023.11.019)
+[doi.org/10.1016/j.wasman.2023.11.019](https://doi.org/10.1016/j.wasman.2023.11.019)  
 
 
 <br>
@@ -21,20 +27,13 @@ background: grey
 - Heussler, C.D., Dittmann, I.L., Egger, B., Robra, S., Klammsteiner, T., 2023. A comparative study of effects of biodegradable and non-biodegradable microplastics on the growth and development of black soldier fly larvae (*Hermetia illucens*). *Waste Biomass Valor*.  
 [doi.org/10.1007/s12649-023-02296-0](https://doi.org/10.1007/s12649-023-02296-0)
 
-- Praeg, N., Klammsteiner, T., 2023. Frass fertilizers from mass-reared insects: species variation, heat treatment effects, and implications for soil application. *BioRxiv*.  
-[doi.org/10.1101/2023.09.28.559882](https://doi.org/10.1101/2023.09.28.559882)
-
-- Heussler, C.D., Klammsteiner, T., Stonig, K.T., Insam, H., Schlick-Steiner, B.C., Steiner, F.M., 2023. Microbial influences on black soldier fly reproduction: A focus on egg surface colonization.  
+- Heussler, C.D., Klammsteiner, T., Stonig, K.T., Insam, H., Schlick-Steiner, B.C., Steiner, F.M., 2023. Microbial influences on black soldier fly reproduction: A focus on egg surface colonization. Preprint at *Research Square*.  
 [doi.org/10.21203/rs.3.rs-3314156/v1](https://doi.org/10.21203/rs.3.rs-3314156/v1)
 
 
 <br>
 
 ## 2022
-- Heussler, C.D., Klammsteiner, T., Stonig, K.T., Insam, H., Schlick-Steiner, B.C., Steiner, F.M., 2022. Decrypting the microbiota on the black soldier fly’s (*Hermetia illucens* L., Diptera: Stratiomyidae) egg surface and their origin during development.  
-[doi.org/10.1101/2022.12.22.520758](https://doi.org/10.1101/2022.12.22.520758)
-
-
 - Liu, T., Klammsteiner, T., Dregulo, A.M., Kumar, V., Zhou, Y., Zhang, Z., Awasthi, M.K., 2022. Black soldier fly larvae for organic manure recycling and its potential for a circular bioeconomy: A review. *Sci Total Environ* 833, 155122.  
 [doi.org/10.1016/j.scitotenv.2022.155122](https://doi.org/10.1016/j.scitotenv.2022.155122)
 
