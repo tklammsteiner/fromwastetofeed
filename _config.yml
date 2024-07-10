@@ -18,7 +18,7 @@ url    : "https://fromwastetofeed.com" # the base hostname & protocol for your s
 baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : From Waste To Feed
-email      : fromwastetofeed@outlook.com #this is also the email contact forms will go to
+email      : thomas.klammsteiner@uibk.ac.at #this is also the email contact forms will go to
 description: "Insect biotech working group Innsbruck, Austria"
 author     : Thomas Klammsteiner
 
