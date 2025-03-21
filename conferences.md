@@ -10,6 +10,14 @@ background: grey
 
 <br>
 
+## 2025
+- Klammsteiner, T., Tekaat, L., Gemassmer, E., Heussler, C.D., Brandt, K., Ayasse, M., Insam, H., Schlick-Steiner, B.C., Steiner, F.M., 2025. Crossroads of preference: oviposition and developmental success in black soldier fly rearing. Presented at the 
+1st EAAP Workshop on Insect Genetic Improvement, Implementation, Impact; 2025 Jan 31; Athens, Greece. [https://insectimp.eaap.org](https://insectimp.eaap.org/)  
+
+- Gemassmer, E., Klammsteiner, T., Heussler, C.D., Brandt, K., Ayasse, M., Schlick-Steiner, B.C., Steiner, F.M., 2025. Interkingdom-interactions in black soldier fly oviposition. Presented at the 1st EAAP Workshop on Insect Genetic Improvement, Implementation, Impact; 2025 Jan 31; Athens, Greece. [https://insectimp.eaap.org](https://insectimp.eaap.org/)  
+
+<br>
+
 ## 2024
 - Klammsteiner, T., Tekaat, L., Heussler, C.D., Insam, H., Schlick-Steiner, B.C., Steiner, F.M., 2024. Crossroads of preference: oviposition and developmental success in black soldier fly rearing, in: Insects to Feed the World 2024. Presented at the Insects to Feed the World 2024, Brill, Singapore, p. 266.  
 Available from: [https://doi.org/10.1163/23524588-20241013](https://doi.org/10.1163/23524588-20241013)  

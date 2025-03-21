@@ -11,7 +11,7 @@ background: grey
 <br>
 
 ## 2024
-- Praeg, N., Klammsteiner, T., 2024. Primary study on frass fertilizers from mass-reared insects: Species variation, heat treatment effects, and implications for soil application at laboratory scale. *J Environ Manage* 356, 120622.  
+- Praeg, N., Klammsteiner, T., 2024. Primary study on frass fertilizers from mass-reared insects: Species variation, heat treatment effects, and implications for soil application at laboratory scale. *J Environ Manag* 356, 120622.  
 [doi.org/10.1016/j.jenvman.2024.120622](https://doi.org/10.1016/j.jenvman.2024.120622)  
 
 - Suraporn, S., Cansee, S., Hupfauf, S., Klammsteiner, T., 2024. Lactic acid bacteria from Bombyx mori frass: Probiotic properties and antagonistic activities. *Agriculture* 14, 924.  
