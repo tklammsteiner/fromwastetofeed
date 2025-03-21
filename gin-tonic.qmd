@@ -1,0 +1,112 @@
+---
+title: "COST Action CA23127: Group on Insect Nutrition"
+subtitle: "To Open Nutritional Innovative Challenges (GIN-TONIC)"
+description: "<b>Working Group & Management Committee Meeting Innsbruck</b>"
+---
+
+<figure>
+
+<img src="_assets/images/ccb.webp" alt="CCB" style="width:100%"/>
+
+<figcaption>© Mag. Matthias Glätzle</figcaption>
+
+</figure>
+
+## Information
+
+### Meeting venue
+
+The Meeting will take place on the 29 & 30 August 2025 at the Center for Chemistry and Biomedicine (*Innrain 80, 6020 Innsbruck, Austria*, [GoogleMaps](https://maps.app.goo.gl/oZ4UtcPZSYGKvKGE8)). The large lecture hall (**L.EG.220**) is located at the ground floor of the building, with the **foyer** hosting the coffee breaks and poster session right in front of it. The smaller seminar room for the parallel session (**L.01.220**) is located on the first floor.
+
+> ### Useful links
+>
+> -   [COST Action website](https://www.cost.eu/actions/CA23127/)
+> -   [EAAP Annual Meeting Innsbruck](https://eaap2025.org/)
+> -   [Getting around in Innsbruck](https://www.innsbruck.info/blog/en/people-stories/buses-bikes-and-big-red-trams-public-transport-in-innsbruck/)
+> -   [Buy bus tickets here](https://www.ivb.at/en/passenger/tickets/overview-of-tickets/)
+> -   [Sign up for city bike rental here](https://stadtrad.ivb.at/en/)
+
+### Coffee breaks & lunch
+
+Coffee breaks will be held in the foyer on the ground floor. On Friday, we will take a short (5-minute) walk together to the [UNI Lounge](https://maps.app.goo.gl/VUE7hL6vAiNGGwK18) canteen in a nearby building for lunch. You can view the menu [here](https://lfuonline.uibk.ac.at/de/universitaet/essen-am-campus/uni-lounge/). While coffee and snacks during the breaks are provided by the meeting organizers, lunch expenses must be covered individually using the daily allowance.
+
+### Social Dinner
+
+The social dinner will take place on Friday, 29 August, starting at 19:30 at [Gasthof Bierstindl](https://www.bierstindl.eu/). Dinner expenses must be covered individually using the daily allowance.
+
+<p style="text-align:center; font-size:20px; background-color:#FFD6D6">If you plan to attend the social dinner, please register \[**HERE**\] until **August 1st** to allow us to make the required reservations.</p>
+
+### Posters
+
+To foster collaboration and identify shared research interests among COST Action members, we invite you to prepare a poster (**A0 vertical format**) introducing your working group or lab and summarizing your general research focus. The poster sessions are meant as an opportunity to familiarize participants with each other's research groups rather than to present recent findings.
+
+</br>
+
+## Program
+
+A .pdf file of the program can be downloaded [here](https://tklammsteiner.github.io). Please don't forget to sign the attendance sheets for each day, which are required for your reimbursment.
+
+### Friday, 29 August - WG Meetings
+
+```{r include=FALSE}
+library(reactable)
+library(tidyverse)
+library(htmltools)
+
+fri <- readxl::read_xlsx("../program_table.xlsx", sheet = "friday")
+sat <- readxl::read_xlsx("../program_table.xlsx", sheet = "saturday")
+
+```
+
+```{r echo=FALSE, warning=FALSE, message=FALSE}
+reactable(fri, 
+          columns = list(
+            Time = colDef(maxWidth = 80),
+            Room = colDef(maxWidth = 100),
+            Event = colDef(html = TRUE)
+            ),
+          defaultPageSize = 20, 
+          highlight = TRUE
+          )
+```
+
+#### Social event
+
+```{r echo=FALSE, warning=FALSE, message=FALSE}
+dinner <- data.frame(
+  Time = c("19:30", ""),
+  Event = c("Dinner at GASTHOF BIERSTINDL",
+            "<i>Address: Klostergasse 6, 6020 Innsbruck</i> [<a href=https://maps.app.goo.gl/HJmh1EJyUCPZVqKcA>GoogleMaps</a>]")
+)
+
+reactable(dinner,
+          columns = list(
+            Time = colDef(maxWidth = 80),
+            Event = colDef(html = TRUE)
+            ),
+          highlight = TRUE
+          )
+```
+
+</br>
+
+### Saturday, 30 August - MC Meeting
+
+```{r echo=FALSE, warning=FALSE, message=FALSE}
+reactable(sat, 
+          columns = list(
+            Time = colDef(maxWidth = 80),
+            Room = colDef(maxWidth = 100),
+            Event = colDef(html = TRUE)
+            ),
+          defaultPageSize = 20, 
+          highlight = TRUE,
+          )
+```
+
+</br>
+
+
+## Funding
+
+![COST](_assets/images/cost.jpg){width="33%"} ![UIBK](_assets/images/uibk.png){width="33%"}
