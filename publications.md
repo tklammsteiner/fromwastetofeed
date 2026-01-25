@@ -10,6 +10,34 @@ background: grey
 
 <br>
 
+## 2026
+- Klammsteiner, T., Heussler, C.D., Stonig, K.T., Schlick-Steiner, B.C., Steiner, F.M., 2026. Stage-specific microbiota transitions throughout black soldier fly ontogeny. *Microb Ecol* in press. [doi.org/10.1007/s00248-025-02691-1](https://doi.org/10.1163/23524588-bja10254)
+
+
+<br>
+
+## 2025
+- Klammsteiner, T., Heussler, C.D., Insam, H., Tomberlin, J.K., Schlick-Steiner, B.C., Steiner, F.M., 2025b. Exploring interkingdom communication: The case of black soldier fly mass-rearing. *Curr Opin Insect Sci* 72, 101427. [doi.org/10.1016/j.cois.2025.101427](https://doi.org/10.1016/j.cois.2025.101427)
+
+- Klammsteiner, T., Heussler, C.D., Insam, H., Schlick-Steiner, B.C., Steiner, F.M., 2025a. Larval density drives thermogenesis and affects microbiota and substrate properties in black soldier fly trials. *iScience* 28, 112794. [doi.org/10.1016/j.isci.2025.112794](https://doi.org/10.1016/j.isci.2025.112794)
+
+- Royer, F., Schlick-Steiner, J., Klammsteiner, T., Kopf, T., Schlick-Steiner, B.C., Steiner, F.M., 2025. Bacterial communities of wild bee species and the western honey bee (Apis mellifera) (Hymenoptera: Apoidea): Alpine insights. *J Insect Sci* 25, ieaf095. [doi.org/10.1093/jisesa/ieaf095](https://doi.org/10.1093/jisesa/ieaf095)
+
+- Auger, L., Tegtmeier, D., Caccia, S., Klammsteiner, T., De Smet, J., 2025. BugBook: How to explore and exploit the insect-associated microbiome. *J Insects Food Feed* 11, 361–395. [doi.org/10.1163/23524588-bja10256](https://doi.org/10.1163/23524588-bja10256)
+
+- Lopes, I.G., Gómez-Brandón, M., Praeg, N., Claeys, J., Yakti, W., Bitterlich, M., Jones, J.J., Geilfus, C.M., Klammsteiner, T., 2025. BugBook: Critical considerations for evaluating and applying insect frass. *J Insects Food Feed* 11, 507–534. [doi.org/10.1163/23524588-bja10254](https://doi.org/10.1163/23524588-bja10254)
+
+- Smetana, S., Coudron, C., Deruytter, D., Francis, A., Pascual, J.J., Klammsteiner, T., Lemke, N., Sandrock, C., Zanoli, R., 2025. BugBook: Data analysis methods in studies of insects for food and feed. *J Insects Food Feed* 11, 579–605. [doi.org/10.1163/23524588-bja10209](https://doi.org/10.1163/23524588-bja10209)
+
+- Tomberlin, J.K., Klammsteiner, T., Lemke, N., Yadav, P., Sandrock, C., 2025. BugBook: Black soldier fly as a model to assess behaviour of insects mass produced as food and feed. *J Insects Food Feed* 11, 341–360. [doi.org/10.1163/23524588-bja10225](https://doi.org/10.1163/23524588-bja10225)
+
+- Gómez-Brandón, M., Beesigamukama, D., Probst, M., Klammsteiner, T., Su, J.-Q., Zhu, Y.-G., Tanga, C.M., 2025. Microbial composition and bioremediation in frass fertilizers from insect-based agri-food waste valorization. *J Environ Manag* 386, 125774. [doi.org/10.1016/j.jenvman.2025.125774](https://doi.org/10.1016/j.jenvman.2025.125774)
+
+- Escobar Rodríguez, C., Zaremska, V., Klammsteiner, T., Kampatsikas, I., Münstermann, N., Weichold, O., Gruber, S., 2025. Chitosan obtained from black soldier fly larval cuticles expands the value chain and is effective as a biocontrol agent to combat plant pathogens. *Carbohydr Polym* 349, 123023. [doi.org/10.1016/j.carbpol.2024.123023](https://doi.org/10.1016/j.carbpol.2024.123023)
+
+
+<br>
+
 ## 2024
 - Praeg, N., Klammsteiner, T., 2024. Primary study on frass fertilizers from mass-reared insects: Species variation, heat treatment effects, and implications for soil application at laboratory scale. *J Environ Manag* 356, 120622.  
 [doi.org/10.1016/j.jenvman.2024.120622](https://doi.org/10.1016/j.jenvman.2024.120622)  

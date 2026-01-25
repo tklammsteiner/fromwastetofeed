@@ -11,18 +11,24 @@ background: grey
 <br>
 
 ## 2025
-- Klammsteiner, T., Tekaat, L., Gemassmer, E., Heussler, C.D., Brandt, K., Ayasse, M., Insam, H., Schlick-Steiner, B.C., Steiner, F.M., 2025. Crossroads of preference: oviposition and developmental success in black soldier fly rearing. Presented at the 
+- Klammsteiner, T. Linking diet, gut ecology, and microbial roles in the black soldier fly. Talk presented at the GIN-TONIC COST Action WG1 Webinar; 2025 Nov 17; online. [(Announcement link)](https://www.group-on-insect-nutrition.eu/post/workshop-shedding-light-on-gut-microbiota-and-diet-linkages)
+
+- Klammsteiner, T., Tekaat, L., Gemassmer, E., Heussler, C.D., Brandt, K., Ayasse, M., Insam, H., Schlick-Steiner, B.C., Steiner, F.M.. Oviposition choices and developmental trade-offs in black soldier flies. Poster presented at the BSF Con2025; 2025 Sep 9; Cambridge, United Kingdom. [https://www.bsfcon.com/](https://www.bsfcon.com/)
+
+- Gemassmer, E., Klammsteiner, T., Heussler, C.D., Brandt, K., Ayasse, M., Schlick-Steiner, B.C., Steiner, F.M. Microbial volatiles in black soldier fly oviposition. Talk presented at the BSF Con2025; 2025 Sep 10; Cambridge, United Kingdom. [https://www.bsfcon.com/](https://www.bsfcon.com/)
+
+- Klammsteiner, T., Tekaat, L., Gemassmer, E., Heussler, C.D., Brandt, K., Ayasse, M., Insam, H., Schlick-Steiner, B.C., Steiner, F.M. Crossroads of preference: oviposition and developmental success in black soldier fly rearing. Talk presented at the 
 1st EAAP Workshop on Insect Genetic Improvement, Implementation, Impact; 2025 Jan 31; Athens, Greece. [https://insectimp.eaap.org](https://insectimp.eaap.org/)  
 
-- Gemassmer, E., Klammsteiner, T., Heussler, C.D., Brandt, K., Ayasse, M., Schlick-Steiner, B.C., Steiner, F.M., 2025. Interkingdom-interactions in black soldier fly oviposition. Presented at the 1st EAAP Workshop on Insect Genetic Improvement, Implementation, Impact; 2025 Jan 31; Athens, Greece. [https://insectimp.eaap.org](https://insectimp.eaap.org/)  
+- Gemassmer, E., Klammsteiner, T., Heussler, C.D., Brandt, K., Ayasse, M., Schlick-Steiner, B.C., Steiner, F.M. Interkingdom-interactions in black soldier fly oviposition. Talk presented at the 1st EAAP Workshop on Insect Genetic Improvement, Implementation, Impact; 2025 Jan 31; Athens, Greece. [https://insectimp.eaap.org](https://insectimp.eaap.org/)  
 
 <br>
 
 ## 2024
-- Klammsteiner, T., Tekaat, L., Heussler, C.D., Insam, H., Schlick-Steiner, B.C., Steiner, F.M., 2024. Crossroads of preference: oviposition and developmental success in black soldier fly rearing, in: Insects to Feed the World 2024. Presented at the Insects to Feed the World 2024, Brill, Singapore, p. 266.  
+- Klammsteiner, T., Tekaat, L., Heussler, C.D., Insam, H., Schlick-Steiner, B.C., Steiner, F.M. Crossroads of preference: oviposition and developmental success in black soldier fly rearing, in: Insects to Feed the World 2024. Poster presented at the Insects to Feed the World 2024, Brill, Singapore, p. 266.  
 Available from: [https://doi.org/10.1163/23524588-20241013](https://doi.org/10.1163/23524588-20241013)  
 
-- Klammsteiner, T., Praeg, N., 2024. Microbiome and plant-nutrient dynamics in heat-treated insect frass: implications for soil application, in: Insects to Feed the World 2024. Presented at the Insects to Feed the World 2024, Brill, Singapore, p. 187.  
+- Klammsteiner, T., Praeg, N. Microbiome and plant-nutrient dynamics in heat-treated insect frass: implications for soil application, in: Insects to Feed the World 2024. Talk presented at the Insects to Feed the World 2024, Brill, Singapore, p. 187.  
 Available from: [https://doi.org/10.1163/23524588-20241013](https://doi.org/10.1163/23524588-20241013)  
 
 <br>

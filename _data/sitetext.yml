@@ -36,9 +36,6 @@ en: &DEFAULT_EN
       - title: "[Conferences](conferences)"
         desc: "Talks, posters, workshops"
         icon: fas fa-solid fa-users
-      - title: "[News](news)"
-        desc: "News articles, interviews, etc."
-        icon: fas fa-solid fa-newspaper
       - title: "[Training](training)"
         desc: "Theses and internships"
         icon: fas fa-solid fa-graduation-cap
@@ -151,18 +148,6 @@ en: &DEFAULT_EN
             icon: ai ai-google-scholar
           - url: https://www.researchgate.net/profile/Thomas-Klammsteiner
             icon: ai ai-researchgate
-      - name: "Heribert Insam"
-        role: "Professor (ret.)"
-        image: assets/img/team/hi.jpg
-        social:
-          - url: https://www.uibk.ac.at/de/microbiology/team/insam_heribert/
-            icon: fa fa-globe
-          - url: https://www.linkedin.com/in/heribert-insam-a6b16034/
-            icon: fab fa-linkedin-in
-          - url: https://scholar.google.com/citations?user=PLYKvE0AAAAJ&hl=de&oi=ao
-            icon: ai ai-google-scholar
-          - url: https://www.researchgate.net/profile/Heribert-Insam
-            icon: ai ai-researchgate
       - name: "Florian M. Steiner"
         role: "Assoc. Professor"
         image: assets/img/team/fms.jpg
@@ -183,8 +168,8 @@ en: &DEFAULT_EN
         social:
           - url: https://molecular-ecology.at/elisa-gemassmer/
             icon: fa fa-globe
-      - name: "Valerija Kovačević"
-        role: "Student Assistant"
+      - name: "Evelina Krol"
+        role: "Technical Assistant"
         image: assets/img/team/500x500.jpg
 
   contact:
