@@ -10,6 +10,9 @@ background: grey
 
 <br>
 
+## 2026
+- Klammsteiner, T. Short-term pupal heat exposure significantly affects black soldier fly life-history traits. Talk presented at the Insects to Feed the World 2026; Torino, Italy. [https://www.ifw2026.org](https://www.ifw2026.org)  
+
 ## 2025
 - Klammsteiner, T. Linking diet, gut ecology, and microbial roles in the black soldier fly. Talk presented at the GIN-TONIC COST Action WG1 Webinar; 2025 Nov 17; online. [(Announcement link)](https://www.group-on-insect-nutrition.eu/post/workshop-shedding-light-on-gut-microbiota-and-diet-linkages)
 

@@ -11,7 +11,14 @@ background: grey
 <br>
 
 ## 2026
-- Klammsteiner, T., Heussler, C.D., Stonig, K.T., Schlick-Steiner, B.C., Steiner, F.M., 2026. Stage-specific microbiota transitions throughout black soldier fly ontogeny. *Microb Ecol* in press. [doi.org/10.1007/s00248-025-02691-1](https://doi.org/10.1163/23524588-bja10254)
+- Lopes, I.G.\*, Klammsteiner, T.\*, Vrobel, O.\*, Tarkowski, P., Lalander, C., Yong, J.W.H., 2026. Plant biostimulants in *Hermetia illucens* frass: insights into fresh and recirculated frass. Plant Growth Regul. (accepted for publication)
+
+- Lemke, N.B., de Clipelle, A., Nwokoro, C.C., Klammsteiner, T., Guido, M.Z., 2026. Organic waste to clean energy: Briquette Du Kivu as a model for valorising urban waste into charcoal in the DR Congo. Preprint. [doi.org/10.20944/preprints202604.1428.v1](https://doi.org/10.20944/preprints202604.1428.v1)
+
+
+- Bruno, D., Cuff, J.P., Adamaki-Sotiraki, C., Ameixa, O., Athanassiou, C.G., Boukrouh, S., Castellanos, F., Gebiola, M., Guillaume, J.B., Ibikunle, O., Klammsteiner, T., Oonincx, D., Savio, C., Sibinga, N.A., Tettamanti, G., Opatovsky, I., 2026. Knowledge gaps in feeding physiology, microbiome and behaviour of insects for food and feed: overcoming barriers to advancing insect-rearing through interdisciplinarity, standardisation, and emerging technologies. *J Insects Food Feed* 12, 1137–1147. [doi.org/10.1163/23524588-20260004](https://doi.org/10.1163/23524588-20260004)  
+
+- Klammsteiner, T.\*, Heussler, C.D.\*, Stonig, K.T., Schlick-Steiner, B.C., Steiner, F.M., 2026. Stage-specific microbiota transitions throughout black soldier fly ontogeny. *Microb Ecol* in press. [doi.org/10.1007/s00248-025-02691-1](https://doi.org/10.1163/23524588-bja10254)
 
 
 <br>
@@ -21,7 +28,7 @@ background: grey
 
 - Klammsteiner, T., Heussler, C.D., Insam, H., Schlick-Steiner, B.C., Steiner, F.M., 2025a. Larval density drives thermogenesis and affects microbiota and substrate properties in black soldier fly trials. *iScience* 28, 112794. [doi.org/10.1016/j.isci.2025.112794](https://doi.org/10.1016/j.isci.2025.112794)
 
-- Royer, F., Schlick-Steiner, J., Klammsteiner, T., Kopf, T., Schlick-Steiner, B.C., Steiner, F.M., 2025. Bacterial communities of wild bee species and the western honey bee (Apis mellifera) (Hymenoptera: Apoidea): Alpine insights. *J Insect Sci* 25, ieaf095. [doi.org/10.1093/jisesa/ieaf095](https://doi.org/10.1093/jisesa/ieaf095)
+- Royer, F., Schlick-Steiner, J., Klammsteiner, T., Kopf, T., Schlick-Steiner, B.C., Steiner, F.M., 2025. Bacterial communities of wild bee species and the western honey bee (*Apis mellifera*) (Hymenoptera: Apoidea): Alpine insights. *J Insect Sci* 25, ieaf095. [doi.org/10.1093/jisesa/ieaf095](https://doi.org/10.1093/jisesa/ieaf095)
 
 - Auger, L., Tegtmeier, D., Caccia, S., Klammsteiner, T., De Smet, J., 2025. BugBook: How to explore and exploit the insect-associated microbiome. *J Insects Food Feed* 11, 361–395. [doi.org/10.1163/23524588-bja10256](https://doi.org/10.1163/23524588-bja10256)
 

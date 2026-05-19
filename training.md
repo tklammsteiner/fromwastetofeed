@@ -37,13 +37,13 @@ We’re always interested in motivated students. Contact us to discuss possible 
 
 **2026 - Bachelor thesis** - Veronika Bangerter, DE
 
-**2026 - Bachelor thesis** - Fabienne Hasler, AT
-
-**2026 - Bachelor thesis** - Paulina Juen, AT
-
 <br>
 
 ## Past members
+
+**2026 - Bachelor thesis** - Paulian Juen, AT
+
+**2026 - Bachelor thesis** - Fabienne Hasler, AT
 
 **2025 - Bachelor thesis** - Phoebe Lueders, DE
 
