@@ -86,11 +86,6 @@ en: &DEFAULT_EN
         desc: "Expanding the value chain – biological extraction of chitosan for insect-based waste bioconversion."
         image: assets/img/timeline/chitobsf.png
         alt: 
-      - title: "Semiochemical communication"
-        year: "2022-2026"
-        desc: "Microbes involved in black soldier fly oviposition."
-        image: assets/img/timeline/scc.jpg
-        alt: 
       - title: "Frass4Gas"
         year: "2022-2023"
         desc: "Pre-treatment of industrial insect breeding residues for anaerobic digestion"
@@ -102,9 +97,13 @@ en: &DEFAULT_EN
         image: assets/img/timeline/f4gt.jpg
         align: right
         alt:
+      - end: "Semiochemical communication"
+        year: "2022-2026"
+        desc: "Microbes involved in black soldier fly oviposition."
+        image: assets/img/timeline/scc.jpg
+        alt: 
         # you can enforce the alignment
         align: right
-    end: "To be continued!"
 
   clients:
     section: clients
